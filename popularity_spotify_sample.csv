@@ -1,0 +1,511 @@
+track_artist,track_name,energy,tempo,danceability,playlist_genre,loudness,liveness,valence,speechiness,track_popularity,playlist_name,track_album_release_date,instrumentalness,key,duration_ms,acousticness,playlist_subgenre
+Michael Jackson,Billie Jean,0.654,117.046,0.92,pop,-3.051,0.036,0.847,0.0401,77,Throwback Party,2008-02-08,0.0153,11,293827,0.0236,throwback
+"Offset, Travis Scott",SAY MY GRACE (feat. Travis Scott),0.631,121.854,0.772,hip-hop,-5.082,0.129,0.433,0.0431,70,Gangster Rap,2023-10-13,0.0,10,173253,0.0648,gangster
+Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",0.83,113.03,0.666,pop,-5.715,0.191,0.702,0.0751,76,Throwback Party,2016-05-06,0.0,0,236002,0.0123,throwback
+Myles Smith,My Home,0.485,95.968,0.753,folk,-9.431,0.192,0.547,0.035,73,Indie Folk,2023-10-13,0.00104,11,206250,0.345,indie
+"Zedd, Alessia Cara",Stay,0.622,102.04,0.69,electronic,-5.025,0.116,0.544,0.0622,73,EDM Hits,2017-02-23,0.0,5,210091,0.253,modern
+"Asake, Wizkid",MMS,0.634,101.837,0.502,arabic,-3.367,0.188,0.645,0.144,72,Arab X,2024-08-08,0.0341,8,219628,0.677,modern
+Lenny Kravitz,Are You Gonna Go My Way,0.67,129.269,0.619,rock,-10.322,0.331,0.777,0.0353,71,Rock Classics,1993-03-09,0.0109,11,211933,0.00165,classic
+Pantera,Cowboys from Hell,0.908,114.816,0.415,metal,-9.701,0.082,0.437,0.0765,71,Metal Essentials,1990-07-20,0.0345,2,243533,0.00437,classic
+Paramore,Misery Business,0.906,172.977,0.517,punk,-3.677,0.113,0.731,0.0735,73,Pop Punk Powerhouses,2007-06-11,9.26e-06,1,211520,0.00272,pop punk
+"Nelly, Kelly Rowland",Dilemma,0.552,168.19,0.727,r&b,-8.074,0.198,0.607,0.14,77,R&B Hits,2002-06-25,0.00016,2,289160,0.226,modern
+"The Alchemist, Boldy James",Ocean Prime (feat. Boldy James),0.604,49.305,0.583,hip-hop,-8.437,0.724,0.691,0.456,68,Chill Hop,2019-08-30,0.0,2,99907,0.735,chill
+"Queen, David Bowie",Under Pressure - Remastered 2011,0.712,113.805,0.671,rock,-7.815,0.103,0.462,0.0476,79,80s Rock Anthems,1982-05-03,0.0,2,248440,0.429,80s
+Ayra Starr,Rush,0.503,99.97,0.792,latin,-8.044,0.0959,0.381,0.0626,68,Afro-Latin Party,2022-09-16,0.00057,1,185093,0.0369,afro-latin
+TOTO,Africa,0.373,92.718,0.671,rock,-18.064,0.0481,0.732,0.0323,83,80s Rock Anthems,1982-04-08,8.01e-05,9,295893,0.257,80s
+NAYEON,ABCD,0.926,105.969,0.682,k-pop,-2.515,0.19,0.86,0.0607,73,K-Pop Daebak,2024-06-14,0.0,3,162840,0.0404,modern
+George Strait,Amarillo By Morning,0.361,121.059,0.606,country,-16.031,0.38,0.621,0.0346,70,Classic Country,1982-01-01,3.39e-05,9,173467,0.264,classic
+"Omar Courtz, De La Rose",Q U E V A S H A C E R H O Y ?,0.681,155.079,0.56,pop,-6.304,0.106,0.388,0.244,89,Today's Top Hits,2024-09-20,0.0,6,223320,0.103,mainstream
+"Travis Scott, Justin Bieber, Young Thug",Maria I'm Drunk (feat. Justin Bieber & Young Thug),0.631,105.989,0.648,hip-hop,-5.662,0.12,0.142,0.104,71,Melodic Rap,2015-09-04,0.0,4,349933,0.38,melodic
+"Pitbull, Christina Aguilera",Feel This Moment (feat. Christina Aguilera),0.758,135.956,0.673,pop,-3.632,0.341,0.542,0.158,77,Throwback Party,2012,0.0,7,229507,0.039,throwback
+Wizkid,Kese (Dance),0.874,118.079,0.774,arabic,-5.641,0.413,0.927,0.0488,75,Arab X,2024-11-15,0.34,5,174053,0.142,modern
+Luke Combs,Fast Car,0.603,97.994,0.712,pop,-5.52,0.115,0.67,0.0262,82,Soft Pop Hits,2023-03-24,0.0,8,265493,0.186,soft
+"Future, Metro Boomin, Kendrick Lamar",Like That,0.676,162.012,0.814,hip-hop,-4.67,0.119,0.312,0.231,83,Trap,2024-03-22,1.28e-05,11,267707,0.00709,trap
+"Shouse, David Guetta",Love Tonight (David Guetta Remix Edit),0.989,126.002,0.621,electronic,-4.225,0.184,0.0348,0.0434,74,EDM Hits,2021-06-11,0.357,10,158095,0.015,modern
+"R3HAB, A Touch Of Class",All Around The World (La La La),0.859,124.948,0.733,pop,-5.03,0.105,0.52,0.033,71,Throwback Party,2019-04-05,0.0645,9,147840,0.479,throwback
+Bob Marley & The Wailers,Buffalo Soldier,0.463,124.084,0.929,reggae,-8.651,0.0634,0.755,0.308,70,Reggae Classics,1983-05-23,5.3e-06,9,255840,0.143,classic
+AC/DC,Thunderstruck,0.89,133.52,0.502,rock,-5.175,0.217,0.259,0.0364,83,Rock Classics,1990-09-24,0.0117,4,292880,0.000147,classic
+Pink Floyd,"Another Brick in the Wall, Pt. 2",0.394,104.114,0.693,rock,-15.882,0.247,0.721,0.0428,74,Rock Classics,1979-11-30,0.000694,0,238747,0.0782,classic
+Bad Bunny,Agosto,0.584,115.018,0.849,latin,-8.195,0.492,0.724,0.115,71,Reggaeton Hits,2022-05-06,6.18e-06,1,139041,0.0929,reggaeton
+Ichiss,WHINE IN BRAZIL FUNK,0.907,117.054,0.863,brazilian,-5.077,0.182,0.304,0.295,72,Brazilian Funk,2024-07-09,0.000813,4,107971,0.0683,funk
+"KayBlack, Wall Hein, AMUSIK",Maturidade,0.411,172.445,0.722,hip-hop,-9.963,0.0976,0.503,0.387,70,Trap,2022-09-08,0.0,2,142026,0.509,trap
+"Travis Scott, Playboi Carti",FE!N (feat. Playboi Carti),0.882,148.038,0.569,gaming,-2.777,0.142,0.201,0.06,88,Top Gaming Tracks,2023-07-28,0.0,3,191701,0.0316,modern
+XXXTENTACION,Moonlight,0.537,128.009,0.921,gaming,-5.723,0.102,0.711,0.0804,81,Top Gaming Tracks,2018-03-16,0.00404,9,135090,0.556,modern
+The Cars,Just What I Needed,0.579,127.215,0.62,rock,-9.307,0.0858,0.691,0.0473,69,Rock Classics,1978-06-06,6.4e-05,4,225627,0.0152,classic
+Red Hot Chili Peppers,Scar Tissue,0.717,88.969,0.595,rock,-4.803,0.108,0.547,0.0295,82,Alternative Rock,1999-06-08,0.00274,0,215907,0.0779,alternative
+SZA,Snooze,0.551,143.008,0.559,r&b,-7.231,0.11,0.392,0.132,86,R&B Hits,2022-12-09,0.0,5,201800,0.141,modern
+"Post Malone, Morgan Wallen",I Had Some Help (Feat. Morgan Wallen),0.855,127.986,0.638,pop,-4.86,0.245,0.731,0.0264,84,Today's Top Hits,2024-05-10,0.0,7,178206,0.00757,mainstream
+Deftones,My Own Summer (Shove It),0.781,71.841,0.443,metal,-4.277,0.166,0.372,0.0377,77,Death Metal Essentials,1997-10-27,0.205,1,214760,1.33e-05,death
+Aqua,Barbie Girl,0.879,129.991,0.812,pop,-10.998,0.365,0.962,0.0397,74,Throwback Party,1997-01-01,0.224,1,197960,0.017,throwback
+Juice WRLD,All Girls Are The Same,0.529,161.989,0.671,arabic,-7.226,0.0856,0.203,0.307,83,Arab X,2018-12-10,0.000335,0,165820,0.0769,modern
+Tito Double P,EL LOKERON,0.689,120.208,0.724,pop,-7.174,0.0922,0.936,0.0524,89,Global Top 50,2024-08-22,6.77e-06,7,146141,0.573,global
+"Lana Del Rey, Cedric Gervais",Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,0.81,126.052,0.572,electronic,-5.791,0.13,0.11,0.0558,72,EDM Hits,2013-02-01,6.53e-06,1,214912,0.0157,modern
+"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,0.522,89.96,0.755,gaming,-4.368,0.0685,0.925,0.0575,82,Top Gaming Tracks,2019-09-06,0.0,2,157560,0.533,modern
+"ROSÉ, Bruno Mars",APT.,0.783,149.027,0.777,pop,-4.477,0.355,0.939,0.26,98,Global Top 50,2024-10-18,0.0,0,169917,0.0283,global
+"Kina, Adriana Proenza",Can We Kiss Forever?,0.128,109.986,0.522,lofi,-18.717,0.0941,0.124,0.0357,70,Lofi Hip Hop,2018-08-31,0.026,4,187932,0.894,hip-hop
+Queen,Another One Bites The Dust - Remastered 2011,0.528,109.975,0.932,rock,-6.472,0.163,0.757,0.161,71,Rock Classics,1980-06-27,0.329,5,214653,0.115,classic
+Alicia Keys,No One,0.549,90.04,0.644,blues,-5.415,0.134,0.167,0.0285,71,Classic Blues,2007-11-09,8.85e-06,1,253813,0.0209,classic
+"Ryan Castro, Peso Pluma, SOG",QUEMA,0.892,97.008,0.791,latin,-2.58,0.0609,0.916,0.0521,74,Reggaeton Hits,2023-07-13,0.000355,0,150619,0.0509,reggaeton
+girl in red,i wanna be your girlfriend,0.382,155.901,0.541,pop,-14.323,0.304,0.343,0.035,73,Bedroom Pop,2018-03-02,0.000836,7,204991,0.0215,bedroom
+"Bad Bunny, Mora",Una Vez,0.598,83.836,0.55,latin,-5.402,0.0955,0.543,0.0831,74,Reggaeton Hits,2020-02-29,2.58e-06,11,232496,0.132,reggaeton
+Olly Alexander (Years & Years),King,0.857,119.975,0.56,pop,-4.145,0.381,0.432,0.0384,73,Throwback Party,2015-07-10,0.0,4,215360,0.0594,throwback
+Lil Uzi Vert,XO Tour Llif3,0.75,155.096,0.732,gaming,-6.366,0.109,0.401,0.231,81,Top Gaming Tracks,2017-08-25,0.0,11,182707,0.00264,modern
+Jaguares,Te Lo Pido por Favor,0.659,106.196,0.648,rock,-6.369,0.19,0.532,0.0259,68,Spanish Rock Classics,2002-10-22,0.000307,2,206133,0.115,spanish
+Sleepy Hallow,2055,0.512,80.511,0.829,gaming,-5.865,0.12,0.638,0.187,80,Top Gaming Tracks,2021-06-02,0.0,6,123987,0.492,modern
+Gunna,fukumean,0.622,130.001,0.847,arabic,-6.747,0.285,0.22,0.0903,82,Arab X,2023-06-16,0.0,1,125040,0.119,modern
+Heroes Del Silencio,Maldito duende,0.85,125.796,0.374,rock,-5.657,0.116,0.348,0.0404,68,Spanish Rock Classics,1990,0.0,4,253187,0.0904,spanish
+Stromae,Alors on danse - Radio Edit,0.593,119.958,0.79,electronic,-9.204,0.065,0.72,0.0776,75,French Touch,2010-01-01,0.00202,1,206067,0.0983,french
+Ricky Martin,Livin' la Vida Loca,0.954,178.043,0.425,pop,-3.756,0.0555,0.933,0.0476,73,Throwback Party,1999,0.0,1,243160,0.00414,throwback
+My Chemical Romance,I'm Not Okay (I Promise),0.94,179.722,0.21,punk,-3.427,0.269,0.255,0.123,74,Pop Punk Powerhouses,2004-06-08,0.0,9,186480,0.00602,pop punk
+Blue Öyster Cult,(Don't Fear) The Reaper,0.927,141.466,0.333,rock,-8.55,0.297,0.385,0.0733,75,Rock Classics,1976,0.000208,9,308120,0.0029,classic
+Van Halen,Jump - 2015 Remaster,0.835,129.981,0.572,rock,-6.219,0.0702,0.795,0.0317,75,80s Rock Anthems,1984-01-04,0.000377,0,241600,0.171,80s
+Stevie Nicks,Edge of Seventeen - 2016 Remaster,0.804,111.457,0.591,rock,-7.299,0.0818,0.658,0.0454,69,80s Rock Anthems,1981-07-27,5.98e-06,0,329413,0.327,80s
+Audioslave,Like a Stone,0.568,107.849,0.614,rock,-5.477,0.0997,0.516,0.0276,77,Alternative Rock,2002-11-17,0.0,7,293960,0.00797,alternative
+The Smiths,How Soon Is Now? - 2011 Remaster,0.93,190.818,0.398,rock,-6.76,0.0874,0.725,0.0615,71,80s Rock Anthems,1984,0.121,11,408173,0.000854,80s
+"Imanbek, BYOR",Belly Dancer,0.797,121.985,0.845,electronic,-4.984,0.167,0.422,0.139,77,Techno Bunker,2022-02-18,5.57e-06,1,151475,0.0582,techno
+"Pritam, Arijit Singh",Khairiyat,0.481,124.914,0.534,indian,-9.016,0.142,0.293,0.0412,71,Bollywood Butter,2019-08-31,0.0,0,280282,0.697,bollywood
+"Arcángel, Bad Bunny",Me Acostumbre (feat. Bad Bunny),0.586,124.041,0.808,hip-hop,-7.242,0.14,0.568,0.169,68,Trap,2017-04-11,0.0,10,263288,0.641,trap
+Piso 21,Tan Bonita,0.804,110.982,0.82,latin,-7.226,0.064,0.844,0.0528,68,Chill Spanish Vibes,2021-03-18,0.00215,9,211998,0.175,chill
+"Zerb, Sofiya Nzau",Mwaki,0.637,120.033,0.847,electronic,-8.751,0.121,0.0509,0.0587,74,Techno Bunker,2023-10-27,0.201,7,208135,0.201,techno
+Alice In Chains,Would? (2022 Remaster),0.842,100.127,0.297,rock,-7.457,0.0848,0.586,0.0488,72,Rock Classics,1992-09-29,9.1e-06,6,206773,0.000286,classic
+Ice Cube,It Was A Good Day,0.744,82.356,0.798,hip-hop,-5.328,0.292,0.794,0.136,78,Chill Hop,1992-11-17,0.000106,7,260000,0.33,chill
+Bon Jovi,Livin' On A Prayer,0.887,122.509,0.532,pop,-3.757,0.294,0.794,0.0335,83,Throwback Party,1986-08-16,0.000206,0,249293,0.0778,throwback
+J Balvin,Ay Vamos,0.711,173.916,0.718,latin,-5.746,0.1,0.92,0.11,72,Reggaeton Hits,2014-09-12,5.52e-05,8,226413,0.157,reggaeton
+HYBS,Tip Toe,0.486,163.9,0.687,pop,-8.673,0.115,0.792,0.0579,76,Bedroom Pop,2023-06-20,0.126,11,224726,0.587,bedroom
+"Myke Towers, benny blanco",DEGENERE 👑 (feat. benny blanco),0.709,194.055,0.744,latin,-5.778,0.0847,0.712,0.284,79,Viva Latino,2024-10-16,0.0,6,130880,0.0501,modern
+"Bad Bunny, ROSALÍA",LA NOCHE DE ANOCHE,0.618,81.993,0.856,latin,-4.892,0.0866,0.391,0.286,74,Reggaeton Hits,2020-11-27,0.0,7,203201,0.0303,reggaeton
+Travis Scott,MY EYES,0.621,119.043,0.455,hip-hop,-7.694,0.123,0.28,0.0517,82,Chill Hop,2023-07-28,2.59e-06,0,251250,0.651,chill
+"¥$, Playboi Carti, Don Toliver, Kodak Black",FIELD TRIP,0.685,121.991,0.731,hip-hop,-4.707,0.0865,0.458,0.12,72,RapCaviar,2024-08-03,0.0,11,167229,0.054,modern
+Bad Bunny,TE MUDASTE,0.637,92.025,0.811,latin,-4.835,0.118,0.471,0.0591,72,Reggaeton Hits,2020-11-27,0.000572,10,130014,0.234,reggaeton
+Billie Eilish,WILDFLOWER,0.247,148.101,0.467,pop,-12.002,0.17,0.126,0.0431,93,Global Top 50,2024-05-17,0.000271,6,261467,0.612,global
+"Victor Mendivil, Oscar Maydon",Mejores Jordans,0.583,115.221,0.669,latin,-8.949,0.1,0.271,0.269,83,Reggaeton Hits,2024-07-30,2.54e-06,1,234716,0.603,reggaeton
+Bad Bunny,La Zona,0.801,93.992,0.762,latin,-3.661,0.254,0.81,0.0409,68,Reggaeton Hits,2020-02-29,7.04e-05,1,136893,0.2,reggaeton
+Outkast,ATLiens,0.734,97.044,0.918,hip-hop,-2.832,0.191,0.608,0.269,70,Chill Hop,1996-08-27,8.01e-06,11,230693,0.0296,chill
+"Jasleen Royal, B Praak, Romy, Anvita Dutt","Ranjha (From ""Shershaah"")",0.573,82.941,0.603,indian,-5.843,0.0971,0.236,0.0502,68,Bollywood Butter,2021-08-05,0.0,1,228855,0.478,bollywood
+Phil Collins,Against All Odds (Take a Look at Me Now) - 2016 Remaster,0.498,116.262,0.581,blues,-6.9,0.132,0.111,0.0276,74,Classic Blues,2016-10-14,0.0,1,206360,0.198,classic
+Rihanna,Don't Stop The Music,0.669,122.669,0.834,pop,-5.582,0.0535,0.547,0.0637,79,Throwback Party,2008-06-02,7.18e-05,6,267080,0.0341,throwback
+My Chemical Romance,Teenagers,0.857,111.647,0.463,punk,-3.063,0.184,0.856,0.0632,79,Pop Punk Powerhouses,2006-10-23,0.0,4,161920,0.0506,pop punk
+Van Halen,You Really Got Me - 2015 Remaster,0.946,138.18,0.454,rock,-5.978,0.173,0.647,0.13,68,Rock Classics,1978-02-10,0.0,1,156147,0.0223,classic
+XXXTENTACION,Everybody Dies In Their Nightmares,0.57,129.953,0.734,hip-hop,-7.066,0.112,0.689,0.133,81,Chill Hop,2017-08-25,2.14e-05,7,95467,0.847,chill
+Taio Cruz,Dynamite,0.781,119.977,0.751,electronic,-3.724,0.036,0.814,0.0862,72,EDM Hits,2010-01-01,0.0,4,202613,0.0039,modern
+"SativaMusic, Morad, GIMS",Seya,0.681,101.005,0.798,electronic,-4.818,0.137,0.434,0.0722,73,French Touch,2023-10-06,0.00197,10,188485,0.219,french
+Yeah Yeah Yeahs,Maps,0.941,119.783,0.502,rock,-5.194,0.553,0.124,0.0716,75,Alternative Rock,2003-04-29,0.319,7,219987,0.000346,alternative
+AC/DC,Highway to Hell,0.913,115.728,0.574,rock,-4.793,0.156,0.423,0.133,84,Rock Classics,1979-07-27,0.00158,6,208400,0.061,classic
+Shakira,"Whenever, Wherever",0.832,107.657,0.794,pop,-4.862,0.203,0.871,0.0407,74,Throwback Party,2001-11-13,1.14e-05,1,196160,0.237,throwback
+Youka,Hm Hm hm,0.637,171.264,0.567,afrobeats,-4.032,0.235,0.882,0.298,68,Afro Hits,2024-07-05,0.0346,9,131765,0.499,nigerian
+"Asake, Wizkid",MMS,0.634,101.837,0.502,ambient,-3.367,0.188,0.645,0.144,72,Meditative Vibes,2024-08-08,0.0341,8,219628,0.677,meditative
+Harry Styles,From the Dining Table,0.156,94.08,0.671,ambient,-16.288,0.113,0.201,0.0371,69,Dark Academia,2017-05-12,0.0518,8,211960,0.804,academic
+Lil Tecca,Down With Me,0.588,114.929,0.712,hip-hop,-5.332,0.21,0.471,0.0543,70,Melodic Rap,2024-01-19,0.0,9,120035,0.112,melodic
+ABBA,Take A Chance On Me,0.675,107.064,0.684,pop,-8.123,0.242,0.924,0.0257,74,Throwback Party,1977,0.0,11,243933,0.163,throwback
+"Joyce Santana, Feid",Ferxxoko,0.483,171.831,0.753,latin,-6.436,0.0681,0.826,0.273,72,Viva Latino,2024-10-31,0.0,3,177209,0.0189,modern
+Beéle,Frente al Mar,0.682,100.036,0.75,latin,-3.825,0.112,0.618,0.0945,79,Viva Latino,2024-09-26,1.28e-06,10,165178,0.168,modern
+Sabrina Carpenter,Please Please Please,0.586,107.071,0.669,pop,-6.073,0.104,0.579,0.054,88,Today's Top Hits,2024-06-06,0.0,9,186365,0.274,mainstream
+a-ha,Take on Me,0.902,84.412,0.573,pop,-7.638,0.0928,0.876,0.054,84,Throwback Party,1985-06-01,0.00125,6,225280,0.018,throwback
+Tom Odell,Another Love,0.537,122.769,0.445,pop,-8.532,0.0944,0.131,0.04,86,Soft Pop Hits,2013-06-24,1.65e-05,4,244360,0.695,soft
+Linkin Park,BURN IT DOWN,0.972,110.006,0.585,rock,-4.45,0.0707,0.585,0.0534,76,Alternative Rock,2012-06-19,0.0,9,230253,0.0143,alternative
+"ZICO, JENNIE",SPOT!,0.782,108.038,0.875,k-pop,-3.905,0.113,0.906,0.078,78,K-Pop Daebak,2024-04-26,0.0,5,167707,0.151,modern
+"Trap Capos, Noriel, Anuel AA, Baby Rasta",Diablita (feat. Anuel AA & Baby Rasta),0.631,129.902,0.807,hip-hop,-4.883,0.117,0.126,0.111,70,Trap,2016-10-07,0.0,8,213613,0.407,trap
+One Direction,Story of My Life,0.663,121.07,0.6,pop,-5.802,0.119,0.286,0.0477,86,Soft Pop Hits,2013-11-25,0.0,3,245493,0.225,soft
+The Emotions,Best of My Love,0.713,115.443,0.784,pop,-6.865,0.0904,0.97,0.0339,73,Throwback Party,1977-06-10,0.14,0,220560,0.447,throwback
+"Ebru Yaşar, Siyam, Zeyd",Kafamın İçi,0.724,78.753,0.536,turkish,-6.84,0.116,0.587,0.152,68,Turkish Pop,2024-05-22,0.0,9,142000,0.748,pop
+Brent Faiyaz,Rehab (Winter In Paris),0.242,144.211,0.549,r&b,-11.692,0.127,0.286,0.038,71,R&B Hits,2020-02-07,8.1e-05,5,180304,0.809,modern
+Beyoncé,Halo,0.72,79.983,0.508,blues,-5.908,0.0563,0.472,0.0628,71,Classic Blues,2008-11-17,0.0,11,261640,0.272,classic
+Avril Lavigne,What the Hell,0.926,149.976,0.578,punk,-3.689,0.14,0.877,0.0548,71,Pop Punk Powerhouses,2011-03-08,0.0127,6,220707,0.00472,pop punk
+"Drake, Young Thug, 21 Savage",It's Up (feat. Young Thug & 21 Savage),0.723,139.942,0.783,hip-hop,-4.881,0.159,0.294,0.135,76,RapCaviar,2024-08-30,0.0,1,278001,0.0264,modern
+"Myke Towers, Peso Pluma",SE TE NOTA (feat. Peso Pluma),0.616,104.008,0.773,latin,-4.516,0.145,0.25,0.0416,72,Viva Latino,2024-08-22,4.24e-05,0,190107,0.0565,modern
+"Tiësto, Soaky Siren",Tantalizing,0.888,123.031,0.671,electronic,-4.285,0.0951,0.412,0.0412,69,Techno Bunker,2024-11-08,0.0106,10,146341,0.0022,techno
+"Tyler, The Creator, Kali Uchis",See You Again (feat. Kali Uchis),0.559,78.558,0.558,pop,-9.222,0.109,0.62,0.0959,90,Global Top 50,2017-07-21,7.49e-06,6,180387,0.371,global
+The Wanted,Glad You Came,0.851,126.885,0.722,pop,-3.873,0.108,0.452,0.0639,76,Throwback Party,2011-01-01,0.0,7,197936,0.0319,throwback
+John Legend,All of Me,0.264,119.93,0.422,pop,-7.064,0.132,0.331,0.0322,83,Soft Pop Hits,2013-08-30,0.0,8,269560,0.922,soft
+"Shawn Mendes, Camila Cabello",Señorita,0.54,116.947,0.759,pop,-6.039,0.0945,0.75,0.0287,75,Soft Pop Hits,2019-06-21,0.0,9,190960,0.037,soft
+"Ariana Grande, Justin Bieber",Stuck with U (with Justin Bieber),0.45,178.765,0.597,pop,-6.658,0.382,0.537,0.0418,78,Soft Pop Hits,2020-05-08,0.0,8,228482,0.223,soft
+"Lost Frequencies, Tom Odell",Black Friday (pretty like the sun),0.618,126.031,0.853,electronic,-10.833,0.0972,0.32,0.0923,83,Techno Bunker,2024-07-19,0.89,6,145599,0.633,techno
+Coldplay,Paradise,0.585,139.631,0.449,pop,-6.761,0.0833,0.212,0.0268,81,Soft Pop Hits,2011-10-24,8.75e-05,5,278719,0.0509,soft
+"Disclosure, Eliza Doolittle, Rivo",You & Me - Rivo Remix,0.797,122.011,0.702,electronic,-6.635,0.179,0.0356,0.0557,79,Afro House,2023-12-22,0.495,10,208525,0.583,afro house
+HUMBE,AMOR DE CINE,0.586,189.978,0.326,latin,-7.966,0.0787,0.295,0.0605,71,Chill Spanish Vibes,2021-11-11,0.0,6,262309,0.531,chill
+"Lil Peep, XXXTENTACION",Falling Down - Bonus Track,0.574,120.013,0.669,hip-hop,-6.442,0.146,0.273,0.0286,84,Chill Hop,2018-11-09,0.00294,4,196400,0.0175,chill
+KAROL G,Si Antes Te Hubiera Conocido,0.668,128.027,0.924,latin,-6.795,0.0678,0.787,0.0469,93,Viva Latino,2024-06-21,0.000594,11,195824,0.446,modern
+Jungle,Back On 74,0.761,146.003,0.62,gaming,-7.282,0.269,0.194,0.175,79,Top Gaming Tracks,2023-08-11,0.000147,10,209483,0.207,modern
+Chris Brown,Yo (Excuse Me Miss),0.612,86.768,0.536,blues,-5.847,0.209,0.57,0.272,71,Classic Blues,2005,0.0,4,229040,0.119,classic
+"CHANYEOL, Punch",Stay With Me,0.526,124.709,0.558,korean,-4.686,0.126,0.202,0.033,69,K-Drama OSTs,2016-12-03,0.0,0,192441,0.431,drama
+Bad Bunny,Neverita,0.498,122.016,0.876,latin,-7.511,0.143,0.428,0.0478,75,Chill Spanish Vibes,2022-05-06,0.0,10,173119,0.0706,chill
+"Alex Favela, Grupo Marca Registrada, Joaquin Medina",ELOVRGA,0.476,129.992,0.793,latin,-10.515,0.115,0.578,0.0406,75,Reggaeton Hits,2023-08-18,0.0,5,194769,0.132,reggaeton
+Queens of the Stone Age,No One Knows,0.584,170.411,0.509,rock,-4.907,0.384,0.685,0.057,69,Alternative Rock,2002-01-01,9.96e-05,0,278747,0.0368,alternative
+Britney Spears,...Baby One More Time,0.699,92.96,0.759,pop,-5.745,0.443,0.907,0.0307,81,Throwback Party,1999-01-12,0.000131,0,211067,0.202,throwback
+Dua Lipa,Dance The Night - From Barbie The Album,0.845,110.056,0.671,pop,-4.93,0.329,0.775,0.048,80,Soft Pop Hits,2023-05-25,0.0,11,176579,0.0207,soft
+"Duki, Wiz Khalifa, Arcángel",Wake Up & Bake Up,0.577,148.107,0.797,hip-hop,-5.617,0.301,0.17,0.195,72,Trap,2024-10-31,0.0,1,206031,0.0174,trap
+Fuerza Regida,NEL,0.482,100.029,0.69,latin,-6.335,0.0728,0.356,0.2,88,Reggaeton Hits,2024-07-25,0.0004,7,149074,0.523,reggaeton
+Hozier,Cherry Wine - Live,0.11,81.876,0.415,ambient,-14.901,0.0962,0.234,0.0388,68,Dark Academia,2014-09-19,0.00236,1,240147,0.951,academic
+nimino,I Only Smoke When I Drink,0.729,127.028,0.88,electronic,-6.378,0.185,0.246,0.176,79,Techno Bunker,2024-08-22,0.0113,11,198425,0.334,techno
+Linkin Park,What I've Done,0.935,120.092,0.627,rock,-4.882,0.147,0.287,0.0324,81,Alternative Rock,2007-05-14,0.0,5,205227,0.0092,alternative
+"DJ Snake, Justin Bieber",Let Me Love You,0.715,199.892,0.475,electronic,-5.371,0.135,0.159,0.058,83,EDM Hits,2016-08-05,2.67e-05,8,205947,0.0863,modern
+Lavern,Hold Me,0.942,120.0,0.762,electronic,-6.432,0.115,0.038,0.038,72,Tropical House,2023-03-31,0.764,9,140000,0.586,tropical
+"Tiakola, Genezio, Prototype",PONA NINI,0.569,115.03,0.772,electronic,-7.006,0.117,0.525,0.062,71,French Touch,2024-09-20,0.0,6,246979,0.235,french
+Lil Baby,Pure Cocaine,0.487,127.05,0.964,hip-hop,-6.071,0.115,0.108,0.421,77,Gangster Rap,2018-11-30,6.07e-06,10,154024,0.00127,gangster
+"Rauw Alejandro, Farruko",Fantasias,0.703,94.004,0.879,latin,-4.219,0.0569,0.788,0.0701,71,Reggaeton Hits,2019-08-29,0.0,1,199711,0.143,reggaeton
+"Earth, Wind & Fire",Let's Groove,0.648,125.035,0.869,pop,-8.698,0.126,0.9,0.0633,75,Throwback Party,1981-11-14,2.17e-05,11,339320,0.121,throwback
+Indila,Love Story,0.255,95.978,0.375,electronic,-12.279,0.0845,0.331,0.0377,74,French Touch,2014-01-01,0.0,10,316280,0.815,french
+Billy Idol,White Wedding - Pt. 1,0.814,147.193,0.673,rock,-5.411,0.343,0.728,0.0367,70,Rock Classics,1982-01-01,0.00293,9,252200,0.0134,classic
+"Beyoncé, JAY-Z",Crazy In Love (feat. Jay-Z),0.77,99.165,0.646,pop,-6.596,0.0715,0.681,0.226,77,Throwback Party,2003-06-24,0.0,2,236133,0.00249,throwback
+"Dr. Dre, Snoop Dogg","Nuthin' But A ""G"" Thang",0.821,94.895,0.669,hip-hop,-4.37,0.147,0.684,0.29,76,Hip-Hop Drive,1992-12-15,0.0,11,237573,0.00182,modern
+Key Glock,Ambition For Cash,0.732,149.012,0.841,hip-hop,-5.186,0.136,0.576,0.19,73,Gangster Rap,2021-11-05,2.18e-05,7,143480,0.0115,gangster
+Stone Temple Pilots,Interstate Love Song - 2019 Remaster,0.927,170.814,0.215,rock,-7.327,0.126,0.49,0.0452,72,Rock Classics,1994-06-07,0.00661,9,194853,0.000273,classic
+"Pitbull, Ne-Yo",Time of Our Lives,0.802,124.022,0.721,pop,-5.797,0.694,0.724,0.0583,82,Throwback Party,2014-11-21,0.0,1,229360,0.0921,throwback
+Selena Gomez,Lose You To Love Me,0.342,102.819,0.516,pop,-8.985,0.21,0.0993,0.0425,76,Soft Pop Hits,2020-01-10,0.0,4,206459,0.55,soft
+AFI,Miss Murder,0.873,143.519,0.308,punk,-4.542,0.0974,0.686,0.0533,68,Pop Punk Powerhouses,2006-06-06,0.000729,8,206587,0.00022,pop punk
+Enya,Only Time,0.249,82.803,0.418,blues,-13.744,0.112,0.213,0.0301,71,Classic Blues,2000-11-11,0.661,3,218547,0.841,classic
+Semicenk,Kader Sağ Olsun,0.656,120.001,0.685,turkish,-8.028,0.318,0.556,0.0411,70,Turkish Pop,2024-08-09,0.0,7,172000,0.702,pop
+Kavinsky,Nightcall,0.874,91.038,0.532,electronic,-5.183,0.452,0.361,0.0482,73,Vaporwave Essentials,2010,0.012,9,258413,0.00842,vaporwave
+"Bad Bunny, Buscabulla",Andrea,0.616,103.071,0.797,latin,-10.229,0.0979,0.451,0.375,74,Reggaeton Hits,2022-05-06,0.000293,1,339612,0.762,reggaeton
+"Ñengo Flow, Bad Bunny",Gato de Noche,0.662,93.976,0.892,latin,-3.894,0.363,0.607,0.162,68,Chill Spanish Vibes,2022-12-22,1.24e-06,8,227013,0.169,chill
+Miguel,Sure Thing,0.607,81.001,0.684,pop,-8.127,0.191,0.498,0.1,85,Soft Pop Hits,2010-11-26,0.000307,11,195373,0.0267,soft
+Fall Out Boy,"Sugar, We're Goin Down",0.842,162.011,0.494,punk,-4.784,0.122,0.574,0.0843,76,Pop Punk Powerhouses,2005-05-03,0.0,7,229093,0.00579,pop punk
+Bobby Helms,Jingle Bell Rock,0.424,119.705,0.754,pop,-8.463,0.0652,0.806,0.0363,80,Global Top 50,1957-12-02,0.0,2,130973,0.643,global
+SZA,Broken Clocks,0.684,112.912,0.692,r&b,-7.364,0.156,0.406,0.155,80,R&B Hits,2017-06-09,0.0,6,231253,0.131,modern
+Arctic Monkeys,505,0.866,140.266,0.526,rock,-5.822,0.0945,0.248,0.0568,84,Indie Rock Roadtrip,2007-04-22,7.78e-05,0,253587,0.00287,indie
+Alice In Chains,Would? (2022 Remaster),0.842,100.127,0.297,rock,-7.457,0.0848,0.586,0.0488,72,Alternative Rock,1992-09-29,9.1e-06,6,206773,0.000286,alternative
+Dominic Fike,3 Nights,0.518,151.891,0.815,rock,-6.594,0.104,0.877,0.0897,77,Feel Good Indie Rock,2018-10-16,0.0,7,177667,0.223,feel-good
+"Icona Pop, Charli xcx",I Love It (feat. Charli XCX),0.906,125.916,0.711,electronic,-2.671,0.153,0.824,0.0284,71,EDM Hits,2013-08-27,1.64e-05,8,157153,0.00952,modern
+Joan Jett & the Blackhearts,I Love Rock 'N Roll,0.716,94.379,0.535,rock,-5.025,0.659,0.901,0.0431,77,Rock Classics,1981-11-18,0.0,4,175173,0.326,classic
+Jósean Log,Chachachá,0.321,110.827,0.68,world,-10.944,0.125,0.416,0.0376,77,Tuvan Throat Singing,2016-10-14,4.67e-06,5,215986,0.791,throat singing
+BABYMONSTER,LIKE THAT,0.5,101.959,0.871,k-pop,-8.675,0.0672,0.76,0.103,75,K-Pop Daebak,2024-04-01,3.49e-06,11,168359,0.32,modern
+Bon Jovi,You Give Love A Bad Name,0.959,122.805,0.541,rock,-2.947,0.344,0.812,0.0505,81,80s Rock Anthems,1986-08-16,2.18e-06,0,222707,0.0663,80s
+Panic! At The Disco,I Write Sins Not Tragedies,0.83,170.094,0.569,punk,-4.106,0.114,0.609,0.14,72,Pop Punk Powerhouses,2005-09-27,0.0,9,186635,0.0807,pop punk
+Guns N' Roses,Sweet Child O' Mine,0.952,125.304,0.445,rock,-5.321,0.112,0.624,0.0522,84,Rock Classics,1987-07-21,0.0843,6,356067,0.09,classic
+Bon Iver,S P E Y S I D E,0.247,140.232,0.467,folk,-14.161,0.157,0.258,0.0314,72,Indie Folk,2024-09-20,0.0157,7,209078,0.906,indie
+Whitney Houston,I Will Always Love You,0.214,67.531,0.332,blues,-12.518,0.0839,0.11,0.0349,75,Classic Blues,1992-11-17,5.62e-06,4,271093,0.845,classic
+"The Cinematic Orchestra, Patrick Watson",To Build A Home,0.122,148.658,0.264,folk,-15.399,0.094,0.0735,0.0349,72,Indie Folk,2007-05-07,0.349,9,371320,0.885,indie
+"P!nk, Nate Ruess",Just Give Me a Reason (feat. Nate Ruess),0.547,95.0,0.778,pop,-7.273,0.132,0.442,0.0489,83,Soft Pop Hits,2012-09-18,0.000306,2,242733,0.344,soft
+"Lana Del Rey, Cedric Gervais",Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,0.81,126.052,0.572,pop,-5.791,0.13,0.11,0.0558,72,Throwback Party,2013-02-01,6.53e-06,1,214912,0.0157,throwback
+"Hanumankind, Kalmi",Big Dawgs,0.745,180.098,0.464,gaming,-3.202,0.363,0.262,0.161,85,Top Gaming Tracks,2024-07-09,0.0,4,190667,0.0235,modern
+Gregory Alan Isakov,Big Black Car,0.186,110.044,0.6,folk,-15.926,0.104,0.468,0.0317,76,Indie Folk,2009-01-01,0.00102,3,217467,0.909,indie
+James Blunt,You're Beautiful,0.479,81.998,0.675,blues,-9.87,0.088,0.454,0.0278,75,Classic Blues,2005-08-08,1.76e-05,0,209493,0.633,classic
+"Stephen Sanchez, Em Beihold",Until I Found You (with Em Beihold) - Em Beihold Version,0.55,101.19,0.551,pop,-5.339,0.202,0.342,0.0286,78,Soft Pop Hits,2022-04-22,0.0,10,176440,0.777,soft
+Central Cee,Loading,0.68,144.006,0.85,hip-hop,-6.18,0.0964,0.694,0.338,70,Gangster Rap,2021-03-12,0.0,3,173333,0.732,gangster
+"Sukha, Chani Nattan, Prodgk, Gurlez Akhtar",8 ASLE,0.684,100.042,0.769,hip-hop,-6.113,0.18,0.483,0.148,68,Desi Hip-Hop,2023-11-17,0.0,10,161000,0.0977,desi
+Imagine Dragons,Demons,0.71,89.929,0.5,pop,-3.015,0.329,0.419,0.0339,72,Soft Pop Hits,2012-09-04,0.00025,3,175200,0.19,soft
+Bad Bunny,Tití Me Preguntó,0.715,106.672,0.65,latin,-5.198,0.126,0.187,0.253,79,Reggaeton Hits,2022-05-06,0.000291,5,243717,0.0993,reggaeton
+Journey,Don't Stop Believin',0.802,119.25,0.491,rock,-7.106,0.387,0.472,0.0392,72,80s Rock Anthems,2001-10-16,0.0,4,248907,0.25,80s
+BANNERS,Someone To You,0.903,74.988,0.52,pop,-5.497,0.254,0.652,0.042,74,Soft Pop Hits,2019-10-04,0.0,2,219801,0.00517,soft
+Travis Scott,SICKO MODE,0.73,155.008,0.834,arabic,-3.714,0.124,0.446,0.222,81,Arab X,2018-08-03,0.0,8,312820,0.00513,modern
+Asake,Lonely At The Top,0.801,104.986,0.778,arabic,-7.326,0.0912,0.914,0.106,70,Arab X,2023-06-15,0.000155,6,157714,0.692,modern
+"Lady Gaga, Colby O'Donis",Just Dance,0.739,118.99,0.822,pop,-4.541,0.181,0.745,0.0311,79,Throwback Party,2008-01-01,4.28e-05,1,241933,0.0264,throwback
+Chief Keef,Love Sosa,0.413,131.964,0.772,hip-hop,-8.194,0.111,0.211,0.0891,77,Trap,2012-01-01,0.0,0,246213,0.0361,trap
+Jimin,Who,0.756,116.034,0.66,pop,-3.743,0.193,0.838,0.032,92,Today's Top Hits,2024-07-19,0.0,0,170888,0.00289,mainstream
+Beastie Boys,Sabotage,0.938,168.131,0.324,rock,-7.332,0.0961,0.543,0.102,71,Rock Classics,1994-05-23,0.0321,6,178440,0.032,classic
+J. Cole,Neighbors,0.283,138.97,0.898,hip-hop,-12.335,0.11,0.469,0.356,68,Chill Hop,2016-12-09,0.000383,6,216520,0.319,chill
+Faye Webster,In A Good Way,0.286,71.123,0.587,pop,-8.839,0.214,0.302,0.0315,71,Bedroom Pop,2021-06-25,0.0288,9,224680,0.185,bedroom
+Ashanti,Foolish,0.695,90.119,0.665,r&b,-5.763,0.106,0.707,0.0532,72,R&B Hits,2002-01-01,0.0,0,227387,0.347,modern
+"AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",Brown Munde,0.611,100.024,0.854,indian,-6.26,0.119,0.417,0.0864,68,Bhangra Bangers,2020-09-18,0.0,8,254400,0.223,bhangra
+Chappell Roan,"Good Luck, Babe!",0.582,116.712,0.7,pop,-5.96,0.0881,0.785,0.0356,94,Global Top 50,2024-04-05,0.0,11,218424,0.0502,global
+Avril Lavigne,Complicated,0.776,77.987,0.585,pop,-5.898,0.3,0.427,0.0459,81,Soft Pop Hits,2002-06-04,7.74e-06,5,244507,0.0572,soft
+"David Guetta, Bebe Rexha",I'm Good (Blue),0.965,128.04,0.561,gaming,-3.673,0.371,0.304,0.0343,85,Top Gaming Tracks,2022-08-26,7.07e-06,7,175238,0.00383,modern
+Karan Aujla,On Top,0.75,139.979,0.831,hip-hop,-5.42,0.111,0.662,0.153,70,Desi Hip-Hop,2022-11-25,0.0,10,183429,0.0188,desi
+Sean Kingston,Beautiful Girls,0.661,130.009,0.762,blues,-6.075,0.256,0.769,0.0687,78,Classic Blues,2007-07-23,0.0,1,225373,0.15,classic
+Shubh,Dior,0.362,115.974,0.967,hip-hop,-11.374,0.124,0.633,0.159,69,Desi Hip-Hop,2023-05-19,0.00637,5,139134,0.514,desi
+Linkin Park,In the End,0.864,105.143,0.556,pop,-5.87,0.209,0.4,0.0584,88,Global Top 50,2000,0.0,3,216880,0.00958,global
+Lynyrd Skynyrd,Free Bird,0.834,118.222,0.249,rock,-8.21,0.0924,0.337,0.0574,75,Southern Rock,1973-01-01,9.69e-05,0,547107,0.0742,southern
+Maroon 5,This Love,0.862,95.051,0.712,pop,-4.612,0.093,0.809,0.0378,82,Soft Pop Hits,2002,0.0,5,206200,0.0525,soft
+"Guru Josh Project, Klaas",Infinity 2008 - Klaas Vocal Edit,0.862,128.036,0.498,pop,-6.02,0.352,0.469,0.0588,73,Throwback Party,2008-05-07,0.00918,7,192294,0.000313,throwback
+Taylor Swift,I Can Do It With a Broken Heart,0.751,129.994,0.701,gaming,-8.39,0.15,0.22,0.0502,83,Top Gaming Tracks,2024-04-18,0.0,0,218005,0.123,modern
+Calvin Harris,Summer,0.856,127.949,0.596,electronic,-3.556,0.141,0.743,0.0346,81,Techno Bunker,2014-10-31,0.0178,4,222533,0.0211,techno
+Los Ángeles Azules,17 Años,0.483,90.941,0.738,latin,-9.097,0.086,0.774,0.0526,68,Cumbia Classics,1999-01-01,0.0,0,181307,0.467,cumbia
+Arctic Monkeys,I Wanna Be Yours,0.417,67.528,0.464,pop,-9.345,0.0974,0.479,0.0256,90,Global Top 50,2013-09-09,0.022,0,183956,0.136,global
+"Mora, JHAYCO",MEMORIAS,0.707,127.963,0.771,latin,-6.404,0.0745,0.317,0.055,73,Reggaeton Hits,2022-04-01,0.0,2,228750,0.389,reggaeton
+"Dan + Shay, Justin Bieber","10,000 Hours (with Justin Bieber)",0.63,89.991,0.654,pop,-4.644,0.111,0.43,0.0259,70,Soft Pop Hits,2019-10-04,0.0,10,167693,0.153,soft
+NewJeans,How Sweet,0.895,124.994,0.803,k-pop,-2.888,0.154,0.757,0.0623,78,K-Pop Daebak,2024-05-24,5.67e-06,1,219027,0.0816,modern
+Jin,Running Wild,0.711,146.921,0.487,pop,-4.22,0.152,0.317,0.0322,71,Global Top 50,2024-11-19,0.0,8,151647,0.000175,global
+Tyla,PUSH 2 START,0.814,93.482,0.683,afrobeats,-3.505,0.0858,0.758,0.0466,78,African Heat,2024-10-11,0.00826,2,156826,0.277,african
+ECLIPSE,Sudden Shower,0.506,133.403,0.469,korean,-6.283,0.102,0.217,0.0291,70,K-Drama OSTs,2024-04-08,0.0,0,233031,0.587,drama
+Irene Cara,Flashdance...What a Feeling - Radio Edit,0.655,122.49,0.572,pop,-7.027,0.0901,0.392,0.0344,75,Throwback Party,1983-11-02,3.41e-06,7,237053,0.00579,throwback
+"Feid, ATL Jacob",LUNA,0.86,100.019,0.774,latin,-2.888,0.116,0.446,0.13,88,Reggaeton Hits,2023-12-01,0.0,7,196800,0.131,reggaeton
+Los Enanitos Verdes,Lamento Boliviano,0.735,123.57,0.714,rock,-7.125,0.115,0.68,0.0306,77,Spanish Rock Classics,1994-01-01,0.000622,4,222227,0.176,spanish
+Colter Wall,The Devil Wears a Suit and Tie,0.316,127.823,0.625,folk,-12.124,0.194,0.452,0.0815,70,American Folk,2015-06-02,0.238,6,236027,0.777,american
+Royel Otis,Oysters In My Pocket,0.924,168.017,0.598,rock,-4.974,0.17,0.611,0.0623,76,Feel Good Indie Rock,2022-03-10,0.799,6,162339,0.0205,feel-good
+Conan Gray,Heather,0.425,102.078,0.357,pop,-7.301,0.322,0.27,0.0333,83,Soft Pop Hits,2020-03-20,0.0,5,198040,0.584,soft
+Bad Bunny,Efecto,0.475,98.047,0.801,latin,-8.797,0.0639,0.234,0.0516,79,Reggaeton Hits,2022-05-06,1.73e-05,7,213061,0.141,reggaeton
+Coldplay,The Scientist,0.442,146.277,0.557,pop,-7.224,0.11,0.213,0.0243,84,Soft Pop Hits,2002-08-27,1.46e-05,5,309600,0.731,soft
+Metallica,Master Of Puppets,0.836,105.173,0.543,metal,-9.11,0.153,0.56,0.0353,75,Metal Essentials,1986-03-03,0.431,4,515387,0.000647,classic
+Phil Collins,Another Day in Paradise - 2016 Remaster,0.565,101.967,0.78,blues,-7.32,0.063,0.365,0.0306,77,Classic Blues,1989-11-20,0.00269,3,322133,0.736,classic
+"Lil Baby, Gunna, Lil Uzi Vert",Life Goes On,0.541,139.978,0.716,arabic,-7.909,0.115,0.387,0.149,72,Arab X,2018-05-18,0.0,1,247055,0.0021,modern
+Lil Tecca,Ransom,0.642,179.974,0.745,gaming,-6.257,0.0658,0.226,0.287,84,Top Gaming Tracks,2019-08-30,0.0,7,131240,0.0204,modern
+"The Chainsmokers, Coldplay",Something Just Like This,0.635,103.019,0.617,pop,-6.769,0.164,0.446,0.0317,86,Soft Pop Hits,2017-04-07,1.44e-05,11,247160,0.0498,soft
+Billie Eilish,BIRDS OF A FEATHER,0.507,104.978,0.747,pop,-10.171,0.117,0.438,0.0358,97,Global Top 50,2024-05-17,0.0608,2,210373,0.2,global
+"CURSEDEVIL, DJ FKU, Skorde",TUCA DONKA,0.963,130.028,0.817,gaming,-3.318,0.312,0.502,0.0353,77,Top Gaming Tracks,2023-07-28,0.767,1,75692,0.0683,modern
+Calvin Harris,Summer,0.856,127.949,0.596,pop,-3.556,0.141,0.743,0.0346,81,Throwback Party,2014-10-31,0.0178,4,222533,0.0211,throwback
+"Wizkid, Brent Faiyaz",Piece of My Heart (feat. Brent Faiyaz),0.648,93.2,0.737,afrobeats,-5.493,0.105,0.746,0.138,77,African Heat,2024-10-18,6.92e-06,1,259354,0.252,african
+My Chemical Romance,Helena,0.96,125.921,0.356,punk,-3.487,0.209,0.0857,0.104,76,Pop Punk Powerhouses,2004-06-08,0.0,4,204733,0.0142,pop punk
+BigXthaPlug,2AM,0.681,114.991,0.884,hip-hop,-5.839,0.277,0.324,0.149,69,RapCaviar,2024-10-11,0.0,8,184294,0.0439,modern
+Rihanna,Disturbia,0.814,124.921,0.707,pop,-4.509,0.168,0.717,0.0577,78,Throwback Party,2008-06-02,0.0,11,238627,0.0861,throwback
+"The Weeknd, Playboi Carti",Timeless (with Playboi Carti),0.722,119.973,0.769,hip-hop,-5.485,0.111,0.57,0.0507,92,Chill Hop,2024-09-27,2.56e-06,11,256000,0.0584,chill
+Lavern,Hold Me,0.942,120.0,0.762,electronic,-6.432,0.115,0.038,0.038,72,Deep House Relax,2023-03-31,0.764,9,140000,0.586,deep house
+Brent Faiyaz,Poison,0.394,117.489,0.689,r&b,-10.102,0.0859,0.382,0.065,78,R&B Hits,2016-08-03,0.000905,2,212992,0.711,modern
+Polo G,Martin & Gina,0.534,93.924,0.832,hip-hop,-7.813,0.165,0.116,0.253,78,Melodic Rap,2020-05-15,0.0,1,132833,0.345,melodic
+"Myke Towers, Bad Bunny",ADIVINO,0.854,117.994,0.786,latin,-2.4,0.106,0.522,0.0741,77,Reggaeton Hits,2024-04-25,2.39e-05,10,278644,0.169,reggaeton
+"Ayo Maff, Fireboy DML",Dealer,0.651,67.813,0.49,ambient,-6.259,0.108,0.567,0.138,68,Meditative Vibes,2024-04-16,7.59e-06,11,180594,0.714,meditative
+"Future, Metro Boomin, Kendrick Lamar",Like That,0.676,162.012,0.814,gaming,-4.67,0.119,0.312,0.231,83,Top Gaming Tracks,2024-03-22,1.28e-05,11,267707,0.00709,modern
+Bad Bunny,Moscow Mule,0.674,99.968,0.804,latin,-5.453,0.115,0.292,0.0333,79,Reggaeton Hits,2022-05-06,1.18e-06,5,245940,0.294,reggaeton
+MGMT,Time to Pretend,0.94,100.99,0.438,rock,-3.249,0.3,0.421,0.0452,73,Feel Good Indie Rock,2007-12-14,0.0777,2,261000,8.74e-05,feel-good
+Gibran Alcocer,Idea 1,0.146,172.13,0.265,classical,-21.134,0.104,0.416,0.0323,71,Neo-Classical,2022-08-16,0.893,8,154500,0.985,neo-classical
+"Dave, Burna Boy",Location (feat. Burna Boy),0.496,109.979,0.812,ambient,-5.969,0.0955,0.55,0.297,73,Meditative Vibes,2019-03-08,0.0,9,241293,0.271,meditative
+"Drake, Tems",Fountains (with Tems),0.485,100.053,0.843,latin,-8.735,0.107,0.689,0.195,68,Afro-Latin Party,2021-09-03,0.0675,10,192418,0.181,afro-latin
+"DJ Zigão, DJ Lafon Do Md, Mc Rodrigo do CN, Mc Rf",Te Maceto Depois Do Baile,0.789,130.053,0.89,brazilian,-1.826,0.192,0.758,0.428,69,Brazilian Funk,2024-05-14,0.0,11,199615,0.147,funk
+Jet,Are You Gonna Be My Girl,0.957,105.105,0.606,rock,-3.404,0.14,0.603,0.0814,72,Indie Rock Roadtrip,2003,0.000295,2,213800,0.00117,indie
+John Mellencamp,Hurts So Good,0.737,125.447,0.785,rock,-5.306,0.108,0.971,0.0363,69,80s Rock Anthems,1982,0.000107,9,218960,0.042,80s
+Imagine Dragons,Thunder,0.822,167.997,0.604,pop,-4.833,0.147,0.288,0.0438,84,Soft Pop Hits,2017-06-23,0.134,0,187147,0.00672,soft
+Rio Romeo,Nothing's New,0.394,96.192,0.421,ambient,-8.312,0.0984,0.399,0.0277,78,Dark Academia,2022-09-23,4.74e-06,11,211000,0.863,academic
+"Mc Pogba, DJ Guih Da ZO",Ela Joga na Hora,0.669,130.05,0.949,brazilian,-3.922,0.169,0.843,0.222,78,Brazilian Funk,2024-03-28,0.000592,2,132923,0.36,funk
+"Zedd, Foxes",Clarity,0.781,128.0,0.509,electronic,-3.48,0.0749,0.176,0.072,73,EDM Hits,2012-01-01,0.0,8,271427,0.0398,modern
+Gibran Alcocer,Idea 9,0.138,128.563,0.34,classical,-24.95,0.112,0.325,0.0357,72,Neo-Classical,2023-05-26,0.846,2,137547,0.984,neo-classical
+"Dave, Central Cee",UK Rap,0.674,140.065,0.922,hip-hop,-4.429,0.128,0.726,0.366,69,UK Drill,2023-06-04,3.07e-06,1,198027,0.323,drill
+"Filipe Ret, Dallass, Hunter",Deus Perdoa,0.671,147.037,0.607,hip-hop,-6.934,0.128,0.316,0.0863,68,Trap,2023-03-21,1.31e-06,4,137143,0.403,trap
+Brent Faiyaz,Been Away,0.5,132.798,0.602,r&b,-9.377,0.295,0.395,0.298,75,R&B Hits,2020-02-07,5.69e-05,8,223630,0.477,modern
+LATIN MAFIA,Siento que merezco más,0.445,156.023,0.55,latin,-9.548,0.507,0.512,0.0847,73,Viva Latino,2024-10-24,0.00318,7,166159,0.262,modern
+"Alok, Zeeba, Bruno Martini",Hear Me Now,0.463,121.999,0.778,electronic,-7.603,0.0731,0.496,0.0389,73,EDM Hits,2016-10-21,0.00289,11,194840,0.546,modern
+Myles Smith,Stargazing,0.601,123.994,0.635,pop,-6.129,0.11,0.332,0.0295,88,Today's Top Hits,2024-05-10,0.0,1,172533,0.246,mainstream
+"Bad Bunny, Mora",HIBIKI,0.645,119.935,0.801,latin,-5.605,0.118,0.528,0.0706,70,Reggaeton Hits,2023-10-13,0.0,6,208000,0.604,reggaeton
+Joey Bada$$,Righteous Minds,0.638,94.893,0.809,hip-hop,-5.646,0.453,0.608,0.28,68,Chill Hop,2012-06-12,0.0,8,224043,0.262,chill
+Omah Lay,Holy Ghost,0.415,113.976,0.823,ambient,-10.845,0.128,0.488,0.0637,70,Meditative Vibes,2023-11-09,0.0316,5,186154,0.471,meditative
+"FOLA, Bnxn",alone - Remix,0.52,95.865,0.578,afrobeats,-8.399,0.124,0.425,0.151,68,African Heat,2024-10-04,3.38e-06,11,154579,0.554,african
+Queen,Another One Bites The Dust - Remastered 2011,0.528,109.975,0.932,rock,-6.472,0.163,0.757,0.161,71,80s Rock Anthems,1980-06-27,0.329,5,214653,0.115,80s
+Mario,Let Me Love You,0.588,94.519,0.686,blues,-8.343,0.0954,0.617,0.0554,75,Classic Blues,2004-03-15,0.0,7,249120,0.178,classic
+"Dave, Central Cee",Sprinter,0.681,139.057,0.918,ambient,-4.705,0.0615,0.706,0.201,79,Meditative Vibes,2023-06-01,0.0,1,229133,0.263,meditative
+Eternxlkz,SLAY!,0.773,129.923,0.681,gaming,-4.706,0.0978,0.504,0.0345,80,Top Gaming Tracks,2024-03-15,0.734,1,107077,0.0863,modern
+Bruno Mars,Just the Way You Are,0.841,109.021,0.635,pop,-5.379,0.0622,0.424,0.0422,85,Global Top 50,2010-05-11,0.0,5,220734,0.0134,global
+Thin Lizzy,The Boys Are Back In Town,0.706,80.823,0.445,rock,-9.803,0.205,0.768,0.0461,70,Rock Classics,1976,0.000252,8,266720,0.234,classic
+"Lil Baby, Gunna",Ready (feat. Gunna),0.395,76.984,0.793,arabic,-5.578,0.109,0.128,0.385,69,Arab X,2018-11-30,1.4e-05,1,213287,0.277,modern
+Rema,Calm Down,0.781,107.007,0.811,latin,-6.333,0.121,0.824,0.0428,69,Afro-Latin Party,2022-02-10,0.001,11,219813,0.376,afro-latin
+Outkast,ATLiens,0.734,97.044,0.918,hip-hop,-2.832,0.191,0.608,0.269,70,90s Hip-Hop,1996-08-27,8.01e-06,11,230693,0.0296,90s
+Amy Winehouse,You Know I'm No Good,0.495,103.375,0.694,pop,-14.222,0.0644,0.799,0.0329,74,Soft Pop Hits,2006,0.00351,9,257187,0.0137,soft
+"JACKBOYS, Pop Smoke, Travis Scott",GATTI,0.676,143.477,0.594,hip-hop,-5.808,0.163,0.472,0.344,69,Gangster Rap,2019-12-27,0.0,2,181145,0.135,gangster
+Hozier,Too Sweet,0.643,117.025,0.74,pop,-5.446,0.0407,0.96,0.0413,84,Global Top 50,2024-08-19,0.00229,10,251424,0.041,global
+New Radicals,You Get What You Give,0.901,113.967,0.621,rock,-5.396,0.0875,0.744,0.0302,74,Feel Good Indie Rock,1998-01-01,0.0,2,300773,0.17,feel-good
+Hozier,Too Sweet,0.62,117.038,0.741,rock,-5.505,0.0398,0.934,0.0412,79,Alternative Rock,2024-03-22,0.000809,10,251424,0.0295,alternative
+Ocie Elliott,Down by the Water,0.331,95.015,0.611,folk,-12.493,0.117,0.559,0.028,73,Indie Folk,2018-10-19,0.000276,4,178293,0.93,indie
+Nicki Minaj,Starships,0.716,125.006,0.747,pop,-2.457,0.251,0.751,0.0751,76,Throwback Party,2012-01-01,0.0,11,210627,0.135,throwback
+Key Glock,Mr. Glock,0.946,150.141,0.804,hip-hop,-5.949,0.359,0.745,0.352,70,Gangster Rap,2020-01-31,0.0,7,146880,0.002,gangster
+"Davido, YG Marley",Awuke,0.792,113.981,0.749,afrobeats,-4.621,0.0712,0.903,0.0402,76,Afro Hits,2024-10-31,1.63e-05,5,172632,0.308,nigerian
+Whitney Houston,Saving All My Love for You,0.264,99.304,0.636,blues,-14.567,0.275,0.264,0.0263,68,Classic Blues,1985-02-14,4.22e-05,6,238467,0.593,classic
+Conan Gray,Astronomy,0.343,145.115,0.474,ambient,-8.571,0.305,0.152,0.027,72,Dark Academia,2022-06-24,2.65e-05,4,243907,0.578,academic
+"MC Kevin o Chris, Dj Nk Da Serra, Mc Magrinho",Faz um Vuk Vuk (Teto Espelhado),0.413,130.078,0.92,brazilian,-7.901,0.133,0.679,0.0752,72,Brazilian Funk,2023-07-20,0.0514,7,138462,0.504,funk
+Morgan Wallen,Love Somebody,0.843,122.064,0.619,pop,-5.348,0.164,0.746,0.0284,86,Today's Top Hits,2024-10-18,0.000118,5,204829,0.00948,mainstream
+Korn,Freak On a Leash,0.898,103.299,0.353,metal,-5.877,0.39,0.525,0.052,77,Death Metal Essentials,1998-08-18,0.105,2,255733,2.23e-05,death
+"Lost Frequencies, Tom Odell",Black Friday (pretty like the sun),0.618,126.031,0.853,electronic,-10.833,0.0972,0.32,0.0923,83,Tropical House,2024-07-19,0.89,6,145599,0.633,tropical
+"Metro Boomin, Future, Don Toliver",Too Many Nights (feat. Don Toliver & with Future),0.668,87.973,0.573,hip-hop,-4.356,0.109,0.145,0.0467,82,Trap,2022-12-02,4.01e-05,7,199920,0.189,trap
+"Sonny Fodera, Jazzy, D.O.D",Somedays,0.753,127.926,0.671,gaming,-6.045,0.177,0.543,0.0298,79,Top Gaming Tracks,2024-07-26,1.29e-05,4,207168,0.019,modern
+"The Notorious B.I.G., Mase, Diddy",Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,0.884,104.536,0.845,hip-hop,-4.506,0.203,0.904,0.0759,72,90s Hip-Hop,1997-03-04,2.1e-06,6,257400,0.0128,90s
+"Future, Metro Boomin, Travis Scott, Playboi Carti",Type Shit,0.552,144.941,0.64,arabic,-5.679,0.119,0.112,0.129,84,Arab X,2024-03-22,0.0,2,228267,0.0215,modern
+Morat,Cómo Te Atreves,0.888,130.97,0.617,latin,-4.567,0.162,0.771,0.0402,72,Chill Spanish Vibes,2016-06-17,0.0,4,240560,0.0705,chill
+Portugal. The Man,Feel It Still,0.795,79.028,0.801,rock,-5.115,0.0717,0.754,0.0504,81,Feel Good Indie Rock,2017-06-16,0.000113,1,163253,0.0417,feel-good
+"Bad Bunny, JHAYCO",Tarot,0.684,114.011,0.795,latin,-3.971,0.658,0.419,0.0419,76,Reggaeton Hits,2022-05-06,0.0,11,237895,0.0225,reggaeton
+Pat Benatar,Hit Me With Your Best Shot,0.58,127.402,0.741,rock,-9.05,0.212,0.944,0.0304,70,Rock Classics,1980-08-05,3.61e-05,4,171267,0.117,classic
+"Metro Boomin, 21 Savage",10 Freaky Girls (with 21 Savage),0.353,87.997,0.797,arabic,-9.931,0.102,0.0731,0.369,73,Arab X,2018-11-06,0.0,6,208293,0.59,modern
+Tate McRae,2 hands,0.806,104.032,0.608,pop,-3.443,0.191,0.587,0.0486,79,Today's Top Hits,2024-11-14,0.0,1,181821,0.121,mainstream
+Avril Lavigne,Sk8er Boi,0.9,149.937,0.487,punk,-4.417,0.358,0.484,0.0482,77,Pop Punk Powerhouses,2002-06-04,0.0,0,204000,6.79e-05,pop punk
+"DENNIS, MC Kevin o Chris",Tá OK,0.96,130.118,0.863,brazilian,-1.458,0.0853,0.586,0.0492,71,Brazilian Funk,2023-05-04,0.00526,11,92093,0.497,funk
+Shaboozey,A Bar Song (Tipsy),0.706,80.969,0.722,pop,-4.857,0.067,0.599,0.0292,84,Global Top 50,2024-05-31,0.0,9,171292,0.072,global
+"Ja Rule, Ashanti",Always On Time,0.705,96.644,0.838,r&b,-6.131,0.336,0.837,0.29,72,R&B Hits,2001-10-02,0.0,5,245093,0.195,modern
+Key Glock,Russian Cream,0.774,130.007,0.867,hip-hop,-5.791,0.157,0.549,0.315,69,Gangster Rap,2018-02-02,0.0,11,142498,0.11,gangster
+CYRIL,Stumblin' In,0.518,126.089,0.875,electronic,-8.388,0.125,0.37,0.0551,84,Tropical House,2023-11-10,0.00995,2,213364,0.0638,tropical
+"Jhené Aiko, Kendrick Lamar",Stay Ready (What A Life),0.493,82.887,0.347,r&b,-11.548,0.127,0.308,0.29,75,R&B Hits,2013-01-01,0.00366,8,382760,0.455,modern
+BABYMONSTER,SHEESH,0.728,140.041,0.774,k-pop,-5.079,0.0473,0.461,0.169,78,K-Pop Daebak,2024-04-01,0.0,2,170357,0.113,modern
+Juice WRLD,Lean Wit Me,0.651,163.935,0.665,arabic,-5.515,0.0896,0.237,0.156,77,Arab X,2018-12-10,0.0,1,175755,0.0414,modern
+"WIU, Teto",Problemas de um Milionário,0.484,133.03,0.93,hip-hop,-5.486,0.0922,0.747,0.259,70,Trap,2024-04-10,6.84e-05,2,144361,0.355,trap
+Creepy Nuts,Bling-Bang-Bang-Born,0.822,157.013,0.853,j-pop,-6.836,0.166,0.746,0.246,80,Anime Hits,2024-01-07,0.00985,6,168136,0.0841,anime
+Red Hot Chili Peppers,Snow (Hey Oh),0.9,104.655,0.427,rock,-3.674,0.119,0.599,0.0499,77,Alternative Rock,2006-05-09,1.75e-05,11,334667,0.116,alternative
+"Flo Rida, David Guetta",Club Can't Handle Me (feat. David Guetta),0.869,127.966,0.616,pop,-3.911,0.064,0.473,0.0327,76,Throwback Party,2010-11-24,0.0,0,234560,0.0283,throwback
+Drake,No Face,0.69,125.951,0.853,hip-hop,-5.858,0.0835,0.471,0.0647,78,RapCaviar,2024-08-31,0.0,10,137143,0.0771,modern
+The Neighbourhood,Sweater Weather,0.807,124.053,0.612,pop,-2.81,0.101,0.398,0.0336,90,Global Top 50,2013-04-22,0.0177,10,240400,0.0495,global
+Rihanna,Pon de Replay,0.64,99.017,0.779,pop,-8.415,0.101,0.499,0.159,78,Throwback Party,2005-08-29,0.000766,7,246960,0.000155,throwback
+leadwave,memories,0.0823,67.238,0.252,electronic,-27.338,0.0857,0.0381,0.0344,70,Vaporwave Essentials,2022-09-23,0.928,5,86320,0.951,vaporwave
+Tommy Richman,DEVIL IS A LIE,0.452,90.026,0.904,gaming,-7.272,0.115,0.613,0.132,78,Top Gaming Tracks,2024-06-14,0.0,9,130944,0.174,modern
+"KAROL G, Peso Pluma",QLONA,0.738,169.918,0.841,latin,-7.455,0.0892,0.484,0.307,83,Reggaeton Hits,2023-08-10,0.0,7,172798,0.52,reggaeton
+Metallica,Enter Sandman,0.828,123.257,0.577,metal,-8.691,0.0581,0.604,0.0298,79,Metal Essentials,1991-08-12,0.0114,6,331267,0.00213,classic
+Red Hot Chili Peppers,Give It Away,0.936,91.577,0.666,rock,-9.919,0.153,0.776,0.0476,72,Rock Classics,1991-09-24,0.086,7,282907,0.00244,classic
+Céline Dion,It's All Coming Back to Me Now,0.438,87.903,0.384,blues,-9.149,0.101,0.287,0.0362,72,Classic Blues,1996-03-11,0.0,0,456867,0.753,classic
+"Bad Bunny, Chencho Corleone",Me Porto Bonito,0.712,92.005,0.911,latin,-5.105,0.0933,0.425,0.0817,81,Reggaeton Hits,2022-05-06,2.68e-05,1,178567,0.0901,reggaeton
+The Rolling Stones,"Paint It, Black",0.795,158.691,0.464,rock,-9.267,0.399,0.612,0.0926,81,Rock Classics,1966-04-15,0.00244,1,202267,0.0493,classic
+"Rotimi, Wale",In My Bed,0.501,103.993,0.637,ambient,-6.148,0.099,0.431,0.187,68,Meditative Vibes,2019-12-13,5.91e-05,0,185461,0.229,meditative
+Hozier,Too Sweet,0.62,117.038,0.741,gaming,-5.505,0.0398,0.934,0.0412,77,Top Gaming Tracks,2024-03-22,0.000809,10,251424,0.0295,modern
+"Bad Bunny, Buscabulla",Andrea,0.616,103.071,0.797,latin,-10.229,0.0979,0.451,0.375,74,Chill Spanish Vibes,2022-05-06,0.000293,1,339612,0.762,chill
+Vansire,Metamodernity,0.544,121.968,0.823,rock,-10.077,0.108,0.826,0.0358,69,Feel Good Indie Rock,2019-06-11,0.165,5,162663,0.389,feel-good
+Yaelokre,Harpy Hare,0.533,130.02,0.645,folk,-11.65,0.2,0.349,0.0351,76,Nordic Folk,2024-01-04,7.08e-06,2,180923,0.644,nordic
+Alicia Keys,Fallin',0.609,95.986,0.652,r&b,-7.519,0.233,0.482,0.037,76,R&B Hits,2001-06-05,0.00101,11,210200,0.263,modern
+"Gala, Molella, Phil Jay","Freed From Desire - prod. Molella, Phil Jay",0.861,128.99,0.704,pop,-4.221,0.0992,0.636,0.0493,75,Throwback Party,1997-11-17,0.0615,2,213394,0.587,throwback
+"Cazzu, Lyanno, Rauw Alejandro, Dalex",Nada,0.543,98.992,0.898,latin,-8.317,0.338,0.359,0.121,71,Reggaeton Hits,2019-06-03,0.000623,6,305114,0.343,reggaeton
+"Adam Port, Stryv, Keinemusik, Orso, Malachiii",Move,0.782,119.992,0.727,gaming,-8.529,0.225,0.655,0.042,86,Top Gaming Tracks,2024-06-07,0.336,8,177599,0.0563,modern
+Juanes,Nada Valgo Sin Tu Amor,0.643,76.979,0.601,rock,-4.581,0.283,0.387,0.0272,70,Spanish Rock Classics,2004-01-01,0.0,0,196360,0.155,spanish
+"Eurythmics, Annie Lennox, Dave Stewart",Sweet Dreams (Are Made of This) - 2005 Remaster,0.711,125.135,0.692,pop,-7.498,0.12,0.875,0.0317,83,Throwback Party,1983-01-04,0.0,0,216933,0.225,throwback
+Pantera,Cowboys from Hell,0.908,114.816,0.415,metal,-9.701,0.082,0.437,0.0765,71,Heavy Metal Classics,1990-07-20,0.0345,2,243533,0.00437,heavy
+Vanessa Carlton,A Thousand Miles,0.825,94.931,0.56,pop,-3.862,0.161,0.268,0.0379,75,Soft Pop Hits,2002-04-30,0.0,11,237493,0.323,soft
+Pantera,Cowboys from Hell,0.908,114.816,0.415,metal,-9.701,0.082,0.437,0.0765,71,Death Metal Essentials,1990-07-20,0.0345,2,243533,0.00437,death
+Leona Lewis,Bleeding Love,0.656,104.036,0.638,pop,-5.886,0.146,0.225,0.0357,75,Soft Pop Hits,2007,0.0,5,262467,0.188,soft
+NLE Choppa,Gang Baby,0.699,129.054,0.92,hip-hop,-6.635,0.0745,0.484,0.358,72,RapCaviar,2024-09-27,0.0,11,138180,0.00768,modern
+Ludovico Einaudi,Nuvole Bianche,0.0582,132.614,0.191,classical,-25.398,0.0941,0.0454,0.0578,70,Neo-Classical,2004-01-01,0.89,8,357707,0.961,neo-classical
+Michael Marcagi,Scared To Start,0.551,148.035,0.527,folk,-11.258,0.403,0.443,0.0345,84,Indie Folk,2024-01-12,2.75e-06,7,159636,0.384,indie
+Sabrina Carpenter,Nonsense,0.697,138.992,0.74,pop,-4.912,0.224,0.732,0.034,86,Soft Pop Hits,2022-07-15,0.0,8,163648,0.0268,soft
+Dolly Parton,9 to 5,0.783,105.39,0.554,pop,-5.852,0.631,0.813,0.0457,78,Throwback Party,1980,1.54e-06,6,162467,0.416,throwback
+"Jasiel Nuñez, Peso Pluma",EN MI MUNDO,0.594,125.01,0.694,latin,-8.39,0.131,0.672,0.0366,75,Viva Latino,2024-11-07,0.0,8,307565,0.396,modern
+Lynyrd Skynyrd,Sweet Home Alabama,0.606,97.785,0.596,rock,-12.145,0.0863,0.886,0.0255,78,Southern Rock,1974-04-15,0.000327,7,283800,0.181,southern
+USHER,Confessions Part II,0.467,138.007,0.845,blues,-7.674,0.0694,0.702,0.138,68,Classic Blues,2004-03-23,0.0,1,211200,0.0586,classic
+alt-J,Breezeblocks,0.658,150.093,0.615,rock,-7.299,0.205,0.293,0.0343,68,Feel Good Indie Rock,2012-09-18,0.000911,5,227080,0.096,feel-good
+"Dr. Dre, Snoop Dogg",Still D.R.E.,0.775,93.431,0.816,hip-hop,-3.323,0.0543,0.527,0.234,81,90s Hip-Hop,1999-11-16,0.00031,11,270587,0.16,90s
+Tems,Higher,0.581,102.964,0.609,ambient,-10.854,0.283,0.528,0.277,72,Meditative Vibes,2020-09-25,0.0,2,196204,0.509,meditative
+XXXTENTACION,Revenge,0.251,139.999,0.746,hip-hop,-16.169,0.106,0.18,0.259,84,Chill Hop,2017-08-25,0.00203,11,120027,0.782,chill
+Mac DeMarco,For the First Time,0.529,75.515,0.551,pop,-10.469,0.178,0.521,0.0517,80,Bedroom Pop,2017-05-05,0.0093,5,182307,0.296,bedroom
+"Jain, Ian Asher",Makeba - Ian Asher Remix,0.937,123.993,0.651,electronic,-4.078,0.119,0.666,0.0468,69,Techno Bunker,2023-01-13,0.0975,7,125179,0.236,techno
+"J Balvin, Bad Bunny",QUE PRETENDES,0.791,92.603,0.639,latin,-4.443,0.362,0.933,0.254,75,Reggaeton Hits,2019-06-28,0.0,10,222347,0.0275,reggaeton
+"America, George Martin",A Horse with No Name,0.507,123.188,0.653,folk,-17.18,0.155,0.831,0.0534,76,American Folk,1972,0.0147,11,252240,0.687,american
+Odetari,GOOD LOYAL THOTS,0.86,146.441,0.585,gaming,-5.274,0.18,0.607,0.116,73,Top Gaming Tracks,2023-03-15,0.000142,6,102557,0.0566,modern
+Imagine Dragons,Bones,0.742,114.071,0.773,gaming,-3.678,0.0754,0.571,0.046,74,Top Gaming Tracks,2022-03-11,0.0,5,165265,0.0206,modern
+Britney Spears,Oops!...I Did It Again,0.834,95.053,0.751,pop,-5.444,0.355,0.894,0.0437,79,Throwback Party,2000-05-16,1.77e-05,1,211160,0.3,throwback
+"Post Malone, Young Thug",Goodbyes (feat. Young Thug),0.653,150.097,0.547,hip-hop,-3.875,0.103,0.163,0.081,74,Melodic Rap,2019-09-06,0.0,5,174853,0.456,melodic
+Yeat,GEEK TIMË,0.752,158.042,0.638,hip-hop,-6.227,0.17,0.242,0.0385,72,RapCaviar,2024-10-18,0.734,1,170188,0.0066,modern
+"Trippie Redd, Juice WRLD",1400 / 999 Freestyle (feat. Juice WRLD),0.572,141.996,0.823,arabic,-6.067,0.113,0.568,0.0865,69,Arab X,2018-11-09,0.0,6,175954,0.0079,modern
+"Central Cee, Lil Baby",BAND4BAND (feat. Lil Baby),0.764,140.113,0.882,hip-hop,-5.241,0.119,0.886,0.204,81,Gangster Rap,2024-05-23,0.0,11,140733,0.359,gangster
+"Paperboy Fabe, Brent Faiyaz",Language,0.721,169.904,0.62,r&b,-5.538,0.563,0.77,0.0887,77,R&B Hits,2017-05-12,0.0075,4,150361,0.0422,modern
+Lil Tecca,Did It Again,0.561,148.775,0.686,hip-hop,-9.929,0.114,0.186,0.191,72,Melodic Rap,2019-08-30,0.0,10,116240,0.185,melodic
+Central Cee,LET GO,0.413,146.05,0.747,hip-hop,-11.197,0.17,0.481,0.488,72,UK Drill,2022-12-15,0.0,2,174247,0.848,drill
+Billie Eilish,Male Fantasy,0.288,110.927,0.687,ambient,-10.415,0.0986,0.308,0.045,70,Dark Academia,2021-07-30,0.0,2,194887,0.863,academic
+Post Malone,Wow.,0.538,99.952,0.829,hip-hop,-7.359,0.103,0.389,0.212,77,Melodic Rap,2019-09-06,1.88e-06,11,149547,0.137,melodic
+"Tiakola, Ryflo, Oskoow",MANON B,0.709,130.081,0.872,electronic,-7.472,0.0998,0.309,0.176,71,French Touch,2024-08-29,0.0,10,169846,0.336,french
+"Peso Pluma, Anitta",BELLAKEO,0.88,180.011,0.72,latin,-2.834,0.153,0.463,0.101,75,Reggaeton Hits,2023-12-07,0.06,9,197333,0.0562,reggaeton
+Future,PUFFIN ON ZOOTIEZ,0.657,124.992,0.883,hip-hop,-5.748,0.128,0.284,0.305,77,Trap,2022-04-29,0.0,8,172933,0.0603,trap
+"FloyyMenor, Cris Mj",Gata Only,0.499,99.986,0.791,latin,-8.472,0.0899,0.669,0.0509,87,Reggaeton Hits,2024-02-02,2.41e-05,8,222000,0.446,reggaeton
+"Smur Lee, ODUMODUBLVCK, Shallipopi",JUJU (feat. Shallipopi),0.719,113.012,0.897,afrobeats,-7.164,0.0677,0.546,0.157,71,African Heat,2024-08-22,0.000531,6,157756,0.116,african
+"Myke Towers, Juhn",Bandido,0.617,168.021,0.713,latin,-4.637,0.0962,0.682,0.0887,70,Reggaeton Hits,2020-12-10,0.0,8,232853,0.122,reggaeton
+"Tiakola, Ryflo, Oskoow",MANON B,0.708,130.081,0.872,electronic,-7.472,0.0998,0.308,0.176,69,French Touch,2024-09-20,0.0,10,169846,0.336,french
+"Lil Peep, Lil Tracy",witchblades,0.54,143.968,0.634,hip-hop,-7.002,0.302,0.543,0.0777,71,Melodic Rap,2017-02-07,0.0,8,149360,0.0223,melodic
+Los Ángeles Azules,El Listón De Tu Pelo,0.432,81.109,0.695,latin,-8.195,0.296,0.765,0.0479,71,Cumbia Classics,1999-01-01,0.0,11,216107,0.312,cumbia
+Mr. President,Coco Jamboo,0.838,100.021,0.832,pop,-5.414,0.152,0.965,0.0421,72,Throwback Party,1996-05-17,0.0,1,218733,0.0791,throwback
+"Adam Port, Stryv, Keinemusik, Orso, Malachiii",Move,0.782,119.992,0.727,electronic,-8.529,0.225,0.655,0.042,68,Afro House,2024-06-07,0.336,8,177599,0.0563,afro house
+Electric Light Orchestra,Mr. Blue Sky,0.338,177.765,0.388,rock,-10.054,0.248,0.478,0.0329,76,Rock Classics,1977,3.73e-06,10,303373,0.652,classic
+"Clean Bandit, Jess Glynne",Rather Be (feat. Jess Glynne),0.586,120.97,0.799,electronic,-6.735,0.193,0.549,0.0377,72,EDM Hits,2014-06-02,2.03e-06,11,227833,0.162,modern
+Ne-Yo,So Sick,0.574,92.795,0.452,r&b,-8.336,0.189,0.578,0.311,78,R&B Hits,2006-01-01,0.0,6,207187,0.245,modern
+Beach Weather,"Sex, Drugs, Etc.",0.839,143.969,0.572,rock,-5.083,0.522,0.465,0.0377,73,Alternative Rock,2016-11-04,0.00976,4,196784,0.013,alternative
+"Lady Gaga, Bruno Mars",Die With A Smile,0.592,157.969,0.521,gaming,-7.777,0.122,0.535,0.0304,100,Top Gaming Tracks,2024-08-16,0.0,6,251668,0.308,modern
+"Don Omar, Tego Calderón",Bandoleros,0.896,90.622,0.662,latin,-5.311,0.186,0.79,0.251,68,Latino Hip-Hop,2006-06-20,0.0,5,305280,0.318,hip-hop
+Green Day,Good Riddance (Time of Your Life),0.432,94.605,0.475,rock,-7.844,0.161,0.648,0.0302,79,Rock Classics,1997-10-14,0.0,7,153467,0.183,classic
+Shakira,Soltera,0.752,100.076,0.841,latin,-4.735,0.949,0.67,0.105,86,Viva Latino,2024-09-25,0.00046,2,214643,0.167,modern
+Shubh,Bandana,0.718,89.906,0.716,hip-hop,-5.348,0.192,0.91,0.148,73,Desi Hip-Hop,2024-03-29,0.0,6,154667,0.0452,desi
+"Myke Towers, benny blanco",DEGENERE 👑 (feat. benny blanco),0.709,194.055,0.744,pop,-5.778,0.0847,0.712,0.284,84,Today's Top Hits,2024-10-17,0.0,6,130880,0.0501,mainstream
+"Gabry Ponte, Sean Paul, NATTI NATASHA",Born To Love Ya,0.863,130.02,0.652,electronic,-4.853,0.6,0.805,0.0523,69,Techno Bunker,2024-10-04,0.0,7,155077,0.0921,techno
+Juice WRLD,Wishing Well,0.613,149.972,0.65,arabic,-6.13,0.267,0.0804,0.128,76,Arab X,2020-07-10,0.0,9,194621,0.00336,modern
+Foo Fighters,Everlong,0.881,158.066,0.413,rock,-5.541,0.0805,0.364,0.0367,81,Rock Classics,1997-05-20,0.000308,11,250547,5.99e-05,classic
+Bon Jovi,Runaway,0.899,152.445,0.475,rock,-4.321,0.14,0.603,0.0637,72,Rock Classics,1984-01-23,1.91e-05,9,230667,0.00375,classic
+"Memphis Cult, Groove Dealers, SPLYXER",9mm,0.915,154.964,0.737,gaming,-2.749,0.084,0.304,0.0412,73,Top Gaming Tracks,2023-02-23,2.58e-05,0,86710,0.00322,modern
+Yeat,Breathe,0.546,118.051,0.76,gaming,-13.092,0.103,0.113,0.0616,73,Top Gaming Tracks,2024-02-16,0.924,11,170847,0.0284,modern
+Hozier,Work Song,0.363,121.412,0.531,ambient,-7.672,0.112,0.259,0.0608,77,Dark Academia,2014-09-19,0.0,10,229720,0.749,academic
+Bruce Springsteen,Born in the U.S.A.,0.952,122.093,0.398,pop,-6.042,0.1,0.584,0.061,72,Throwback Party,1984-06-04,7.75e-05,4,278680,0.000373,throwback
+Stromae,Formidable,0.629,70.568,0.513,electronic,-9.055,0.146,0.498,0.19,70,French Touch,2013-01-01,0.0,4,213933,0.0986,french
+Arctic Monkeys,Do I Wanna Know?,0.532,85.03,0.548,rock,-7.596,0.217,0.405,0.0323,84,Alternative Rock,2013-09-09,0.000263,5,272394,0.186,alternative
+"The Blessed Madonna, Clementine Douglas",Happier (feat. Clementine Douglas),0.831,126.056,0.785,electronic,-3.681,0.086,0.673,0.0444,68,Techno Bunker,2024-02-02,0.0105,0,170359,0.0038,techno
+"Kronan, Nyaruach, Bakermat",Gatluak - Bakermat Remix,0.647,117.737,0.581,electronic,-7.335,0.304,0.257,0.0614,73,Techno Bunker,2021-07-23,0.0502,11,139384,0.0778,techno
+"Kanye West, Chris Martin",Homecoming,0.747,86.918,0.67,hip-hop,-7.059,0.115,0.918,0.189,79,Chill Hop,2007-09-11,0.0,1,203493,0.337,chill
+Somnum Magnam,Touches,0.00161,140.997,0.138,ambient,-43.643,0.0951,0.155,0.0532,72,Ambient Chill,2024-01-19,0.971,5,144750,0.977,chill
+The Kid LAROI,NIGHTS LIKE THIS,0.757,142.579,0.482,pop,-4.586,0.143,0.12,0.0355,88,Global Top 50,2023-11-10,0.0016,6,86984,0.0137,global
+"Calvin Harris, John Newman",Blame (feat. John Newman),0.857,128.024,0.414,pop,-4.078,0.343,0.348,0.0808,79,Throwback Party,2014-10-31,0.00574,0,212960,0.0287,throwback
+P!nk,Try,0.628,103.998,0.674,pop,-7.079,0.0944,0.552,0.03,79,Soft Pop Hits,2012-09-18,0.0,2,247907,0.00144,soft
+The American Dawn,Her,0.603,102.99,0.66,rock,-7.7,0.0751,0.527,0.025,73,Feel Good Indie Rock,2024-07-26,0.0144,3,214087,0.00566,feel-good
+"Wizkid, Brent Faiyaz",Piece of My Heart (feat. Brent Faiyaz),0.648,93.2,0.737,arabic,-5.493,0.105,0.746,0.138,77,Arab X,2024-10-18,6.92e-06,1,259354,0.252,modern
+2Pac,Do For Love,0.63,95.0,0.874,hip-hop,-3.585,0.0582,0.717,0.298,74,Chill Hop,1997-01-01,0.00479,1,281600,0.0578,chill
+"MAN WITH A MISSION, milet",絆ノ奇跡,0.951,169.955,0.436,j-pop,-4.748,0.149,0.428,0.202,68,Anime Hits,2023-04-10,0.0,7,223320,0.0046,anime
+Gunna,on one tonight,0.727,130.035,0.887,gaming,-4.318,0.213,0.932,0.135,82,Top Gaming Tracks,2024-05-10,1.16e-06,4,90760,0.381,modern
+David Bowie,Heroes - 2017 Remaster,0.758,112.113,0.489,rock,-6.491,0.092,0.435,0.0297,72,Rock Classics,1977,0.49,7,371413,0.000678,classic
+"Rvssian, Rauw Alejandro, Ayra Starr",Santa,0.709,99.993,0.725,latin,-5.017,0.114,0.648,0.129,79,Reggaeton Hits,2024-04-04,0.000189,3,193039,0.321,reggaeton
+Myles Smith,Solo,0.439,122.877,0.586,folk,-7.993,0.117,0.365,0.0346,73,Indie Folk,2023-11-15,0.0,0,199756,0.715,indie
+"KAROL G, Feid, DFZM, Ovy On The Drums, J Balvin, Maluma, Ryan Castro, Blessd",57,0.712,91.98,0.848,latin,-3.574,0.106,0.692,0.0981,84,Reggaeton Hits,2024-11-08,0.0,1,298131,0.221,reggaeton
+David Kushner,Miserable Man,0.348,110.019,0.631,ambient,-10.285,0.295,0.32,0.0343,68,Dark Academia,2022-09-16,8.87e-05,10,232992,0.926,academic
+"The Chainsmokers, ROZES",Roses,0.802,100.001,0.713,electronic,-7.055,0.309,0.343,0.0561,71,EDM Hits,2015-06-16,0.00377,4,226739,0.0435,modern
+Pearl Jam,Even Flow,0.944,105.338,0.394,rock,-6.506,0.298,0.265,0.0761,77,Alternative Rock,1991-08-27,4.54e-06,10,292581,0.00178,alternative
+The Smashing Pumpkins,Bullet With Butterfly Wings - Remastered 2012,0.72,121.864,0.404,rock,-9.18,0.0466,0.475,0.0623,73,Rock Classics,1995,0.836,10,258467,5.59e-05,classic
+"Brent Faiyaz, FELIX!, Tommy Richman",Upset (feat. Tommy Richman & FELIX!),0.5,135.03,0.856,r&b,-9.393,0.104,0.886,0.18,75,R&B Hits,2023-10-27,0.0,11,177900,0.487,modern
+BabyChiefDoit,The Viper,0.831,139.905,0.652,hip-hop,-5.972,0.269,0.648,0.264,68,RapCaviar,2024-09-20,0.0,10,150997,0.0111,modern
+d4vd,Feel It - From The Original Series “Invincible”,0.593,120.509,0.565,rock,-5.864,0.215,0.429,0.0883,78,Feel Good Indie Rock,2024-03-28,0.0,8,157974,0.0288,feel-good
+Ben E. King,Stand By Me,0.306,118.068,0.65,blues,-9.443,0.0707,0.605,0.0393,75,Classic Blues,1962-08-20,7.07e-06,9,180056,0.57,classic
+Eagles,Life in the Fast Lane - 2013 Remaster,0.755,109.535,0.667,rock,-7.246,0.0523,0.883,0.069,68,Rock Classics,1976-12-08,6.94e-05,9,286220,0.0966,classic
+Jason Mraz,I'm Yours,0.444,150.96,0.703,pop,-9.331,0.0973,0.712,0.0417,74,Soft Pop Hits,2008-05-12,0.0,11,242947,0.559,soft
+Vance Joy,Riptide,0.731,101.654,0.483,pop,-6.696,0.151,0.484,0.0381,85,Global Top 50,2014-08-05,0.0,1,204280,0.436,global
+Queens of the Stone Age,No One Knows,0.584,170.411,0.509,rock,-4.907,0.384,0.685,0.057,69,Rock Classics,2002-01-01,9.96e-05,0,278747,0.0368,classic
+"Drake, Yeat",IDGAF (feat. Yeat),0.672,136.902,0.673,gaming,-8.577,0.193,0.14,0.224,76,Top Gaming Tracks,2023-10-06,0.000284,8,260111,0.0466,modern
+"Mike Posner, Seeb",I Took A Pill In Ibiza - Seeb Remix,0.714,101.969,0.664,electronic,-6.645,0.0843,0.71,0.111,79,EDM Hits,2016-05-06,8.42e-06,7,197933,0.0353,modern
+Eternxlkz,BRODYAGA FUNK,0.738,130.0,0.593,gaming,-2.956,0.292,0.591,0.0351,75,Top Gaming Tracks,2023-11-17,0.968,11,134785,0.269,modern
+Benson Boone,Slow It Down,0.583,181.489,0.432,gaming,-4.682,0.0933,0.544,0.0687,87,Top Gaming Tracks,2024-04-05,0.0,8,161831,0.174,modern
+"Lil Baby, Gunna",Drip Too Hard (Lil Baby & Gunna),0.662,112.509,0.897,arabic,-6.903,0.534,0.39,0.292,79,Arab X,2018-10-05,0.0,1,145543,0.0852,modern
+Beck,Loser,0.611,85.387,0.654,rock,-10.45,0.405,0.786,0.119,69,Rock Classics,1994-03-01,0.000178,2,235000,0.0337,classic
+Post Malone,Circles,0.763,120.042,0.695,pop,-3.497,0.0863,0.551,0.0396,83,Soft Pop Hits,2019-09-06,0.00242,0,215280,0.189,soft
+Mark Ambor,Good To Be,0.731,94.009,0.656,folk,-5.861,0.397,0.376,0.0278,71,Indie Folk,2024-08-16,0.00111,4,147167,0.575,indie
+"Bad Bunny, Tainy",Callaita,0.624,176.169,0.61,latin,-4.773,0.243,0.244,0.309,72,Reggaeton Hits,2019-05-31,2.12e-06,2,250534,0.6,reggaeton
+Jim Croce,Operator (That's Not the Way It Feels),0.533,130.398,0.687,folk,-8.853,0.0844,0.814,0.0314,71,American Folk,1972-04-01,6.43e-05,7,229707,0.573,american
+Maroon 5,She Will Be Loved - Radio Mix,0.663,102.0,0.651,pop,-5.569,0.0994,0.465,0.0281,80,Soft Pop Hits,2002,0.0,0,259453,0.228,soft
+Hozier,Too Sweet,0.62,117.038,0.741,rock,-5.505,0.0398,0.934,0.0412,79,Feel Good Indie Rock,2024-03-22,0.000809,10,251424,0.0295,feel-good
+Ayra Starr,Rush,0.503,99.97,0.792,ambient,-8.044,0.0959,0.381,0.0626,68,Meditative Vibes,2022-09-16,0.00057,1,185093,0.0369,meditative
+"Baby Keem, Kendrick Lamar",family ties (with Kendrick Lamar),0.611,134.093,0.711,hip-hop,-5.453,0.23,0.144,0.33,79,Gangster Rap,2021-09-10,0.0,1,252262,0.00588,gangster
+Eminem,Houdini,0.887,127.003,0.936,gaming,-2.76,0.0582,0.889,0.0683,81,Top Gaming Tracks,2024-05-31,1.88e-06,9,227239,0.0292,modern
+Sabrina Carpenter,Please Please Please,0.586,107.015,0.675,pop,-6.086,0.104,0.621,0.0531,87,Global Top 50,2024-08-23,0.0,9,186365,0.257,global
+"Calvin Harris, Ellie Goulding",Outside (feat. Ellie Goulding),0.823,128.035,0.646,electronic,-4.123,0.322,0.418,0.0394,82,EDM Hits,2014-10-31,0.0,2,227267,0.213,modern
+Sabrina Carpenter,Espresso,0.76,103.969,0.701,pop,-5.478,0.185,0.69,0.0285,90,Today's Top Hits,2024-04-12,6.54e-05,0,175459,0.107,mainstream
+Train,Drops of Jupiter (Tell Me),0.638,79.064,0.481,pop,-5.862,0.154,0.497,0.0276,80,Soft Pop Hits,2001-03-27,0.0,0,259933,0.153,soft
+Myles Smith,Stargazing,0.601,123.994,0.635,gaming,-6.129,0.11,0.332,0.0295,88,Top Gaming Tracks,2024-05-10,0.0,1,172533,0.246,modern
+"Mark Ronson, Miley Cyrus",Nothing Breaks Like a Heart (feat. Miley Cyrus),0.794,114.066,0.601,pop,-5.844,0.418,0.244,0.0671,76,Soft Pop Hits,2019-06-21,1.36e-06,7,217099,0.00987,soft
+Indila,Dernière danse,0.449,114.924,0.669,electronic,-7.658,0.0729,0.327,0.049,77,French Touch,2014-01-01,0.0,0,213493,0.184,french
+Charli xcx,360,0.62,120.042,0.857,gaming,-8.13,0.0934,0.796,0.0472,81,Top Gaming Tracks,2024-06-07,0.244,0,133805,0.646,modern
+"Maria Becerra, Yandel",SEXO ES LA MODA,0.718,105.002,0.848,latin,-4.385,0.116,0.564,0.0557,74,Viva Latino,2024-10-31,1.9e-05,9,165901,0.183,modern
+"24kGoldn, iann dior",Mood (feat. iann dior),0.716,91.007,0.701,arabic,-3.671,0.324,0.732,0.0361,80,Arab X,2021-03-26,0.0,7,140533,0.174,modern
+The Doors,Riders on the Storm,0.722,103.886,0.55,rock,-11.729,0.11,0.716,0.0283,70,Rock Classics,1971-04-19,0.0129,11,434720,0.25,classic
+"Blessd, Anuel AA",DEPORTIVO,0.762,90.025,0.816,latin,-2.864,0.0845,0.782,0.0565,72,Viva Latino,2024-11-14,0.000404,0,218701,0.534,modern
+Simge,Önümüz Yaz,0.914,108.02,0.726,turkish,-4.226,0.54,0.839,0.0802,74,Turkish Pop,2024-06-21,0.0,7,181518,0.0758,pop
+"Timbaland, Justin Timberlake, Nelly Furtado",Give It To Me,0.711,110.621,0.975,pop,-3.904,0.0799,0.815,0.0632,74,Throwback Party,2007-04-02,0.000552,8,234027,0.168,throwback
+"Metro Boomin, Future, Don Toliver",Too Many Nights (feat. Don Toliver & with Future),0.668,87.973,0.573,arabic,-4.356,0.109,0.145,0.0467,82,Arab X,2022-12-02,4.01e-05,7,199920,0.189,modern
+"Polo G, Lil Tjay",Pop Out (feat. Lil Tjay),0.639,168.112,0.772,arabic,-7.119,0.0698,0.261,0.467,74,Arab X,2019-06-07,0.0,1,166560,0.15,modern
+Ice Cube,You Know How We Do It,0.52,92.869,0.747,hip-hop,-10.523,0.142,0.601,0.0357,76,Chill Hop,1993-12-07,0.0537,10,232773,0.0977,chill
+Bruno Mars,Locked out of Heaven,0.698,143.994,0.726,pop,-4.165,0.309,0.867,0.0431,89,Global Top 50,2012-12-07,0.0,5,233478,0.049,global
+Sum 41,Fat Lip,0.914,196.482,0.403,punk,-5.215,0.065,0.626,0.142,73,Pop Punk Powerhouses,2001-01-01,0.0,9,178267,0.000579,pop punk
+"Calvin Harris, Alesso, Hurts",Under Control (feat. Hurts),0.915,126.094,0.544,pop,-3.405,0.115,0.51,0.0841,76,Throwback Party,2014-10-31,0.000914,8,184280,0.129,throwback
+Pixies,Where Is My Mind? - 2007 Remaster,0.441,81.334,0.519,rock,-14.178,0.076,0.25,0.0353,76,Rock Classics,1988-03-21,0.000453,4,234973,0.0204,classic
+The Clash,London Calling - Remastered,0.801,133.769,0.651,rock,-7.34,0.0825,0.776,0.0514,70,Rock Classics,1979,0.0,0,200480,0.123,classic
+Brent Faiyaz,Trust,0.394,92.009,0.764,r&b,-8.559,0.117,0.465,0.152,75,R&B Hits,2018-10-19,9.37e-05,8,158421,0.231,modern
+Yuuri,カーテンコール,0.905,141.131,0.545,j-pop,-3.823,0.182,0.735,0.0684,73,Anime Hits,2024-07-19,0.0,5,243027,0.103,anime
+Future,LIL DEMON,0.754,131.001,0.863,hip-hop,-5.851,0.0913,0.301,0.0611,77,RapCaviar,2024-09-20,0.0,11,139197,0.00125,modern
+Britney Spears,Toxic,0.838,143.04,0.774,pop,-3.914,0.242,0.924,0.114,83,Throwback Party,2003-11-13,0.025,5,198800,0.0249,throwback
+"David Guetta, Sia",Titanium (feat. Sia),0.787,126.062,0.604,pop,-3.674,0.127,0.301,0.103,80,Throwback Party,2012-12-07,0.15,0,245040,0.0679,throwback
+Journey,Separate Ways (Worlds Apart) [2023 Remaster],0.96,131.707,0.469,rock,-4.809,0.334,0.37,0.0629,70,80s Rock Anthems,1983-02-01,1.81e-06,4,323453,0.141,80s
+Tears For Fears,Everybody Wants To Rule The World,0.795,112.067,0.645,rock,-12.095,0.104,0.535,0.0527,85,80s Rock Anthems,1985-02-25,0.00389,7,251489,0.347,80s
+Adele,Easy On Me,0.366,141.981,0.604,pop,-7.519,0.133,0.13,0.0282,77,Soft Pop Hits,2021-10-14,0.0,5,224695,0.578,soft
+"Clean Bandit, Sean Paul, Anne-Marie",Rockabye (feat. Sean Paul & Anne-Marie),0.763,101.965,0.72,pop,-4.068,0.18,0.742,0.0523,70,Throwback Party,2016-10-21,0.0,9,251088,0.406,throwback
+Billie Eilish,BIRDS OF A FEATHER,0.507,104.978,0.747,gaming,-10.171,0.117,0.438,0.0358,97,Top Gaming Tracks,2024-05-17,0.0608,2,210373,0.2,modern
+David Bowie,Starman - 2012 Remaster,0.449,100.456,0.486,rock,-10.298,0.54,0.549,0.0267,76,Rock Classics,1972-06-06,2.23e-06,5,254293,0.166,classic
+AC/DC,You Shook Me All Night Long,0.767,127.361,0.532,rock,-5.509,0.39,0.755,0.0574,81,80s Rock Anthems,1980-07-25,0.000513,7,210173,0.00287,80s
+"Maroon 5, Christina Aguilera","Moves Like Jagger - Studio Recording From ""The Voice"" Performance",0.761,128.046,0.722,pop,-4.46,0.315,0.624,0.0475,79,Throwback Party,2010,0.0,11,201493,0.0119,throwback
+"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),0.764,169.928,0.591,pop,-5.484,0.103,0.478,0.0483,78,Soft Pop Hits,2021-07-09,0.0,1,141806,0.0383,soft
+Peggy Gou,(It Goes Like) Nanana - Edit,0.876,129.998,0.671,electronic,-5.681,0.0823,0.964,0.0352,75,Techno Bunker,2023-06-15,0.188,7,231545,0.12,techno
+Fleetwood Mac,Dreams - 2004 Remaster,0.492,120.151,0.828,rock,-9.744,0.128,0.789,0.0276,84,Rock Classics,1977-02-04,0.00428,0,257800,0.0644,classic
+Juanes,La Camisa Negra,0.731,97.007,0.751,rock,-4.419,0.0556,0.973,0.0308,72,Spanish Rock Classics,2004-01-01,0.0,6,216707,0.0838,spanish
+Lost Frequencies,Love Is The Only Thing,0.688,127.938,0.608,electronic,-8.597,0.08,0.214,0.0499,68,Techno Bunker,2024-11-08,0.00736,5,171094,0.0554,techno
+"Eminem, Rihanna",Love The Way You Lie,0.925,86.989,0.749,blues,-5.034,0.52,0.641,0.227,83,Classic Blues,2010-06-18,0.0,10,263373,0.241,classic
+Teddy Swims,Lose Control,0.604,159.92,0.561,soul,-4.409,0.104,0.242,0.0337,81,Soul Coffee,2023-06-23,1.9e-05,9,210689,0.199,classic
+Kendrick Lamar,Not Like Us,0.472,101.061,0.898,gaming,-7.001,0.141,0.214,0.0776,88,Top Gaming Tracks,2024-05-04,0.0,1,274192,0.0107,modern
+"Major Lazer, MØ, DJ Snake",Lean On (feat. MØ & DJ Snake),0.809,98.007,0.723,pop,-3.081,0.565,0.274,0.0625,76,Throwback Party,2015-11-27,0.00123,7,176561,0.00346,throwback
+AC/DC,You Shook Me All Night Long,0.767,127.361,0.532,rock,-5.509,0.39,0.755,0.0574,81,Rock Classics,1980-07-25,0.000513,7,210173,0.00287,classic
+Jung Kook,Stay Alive (Prod. SUGA of BTS),0.76,130.096,0.512,korean,-5.889,0.103,0.495,0.0682,68,K-Drama OSTs,2022-02-11,0.0,2,210928,0.299,drama
+"Akon, Hamsika Iyer",Chammak Challo,0.879,133.946,0.742,indian,-4.274,0.0981,0.936,0.0328,72,Bollywood Workout,2011-09-16,7.17e-06,0,227091,0.0696,workout
+"Robin Schulz, CYRIL, Sam Martin",World Gone Wild (feat. Sam Martin),0.714,127.993,0.634,electronic,-7.529,0.374,0.409,0.104,69,Techno Bunker,2024-10-11,0.0025,7,146523,0.00882,techno
+Juanes,A Dios Le Pido,0.84,97.027,0.673,rock,-3.564,0.0965,0.94,0.0559,72,Spanish Rock Classics,2002-01-01,0.0,7,205373,0.0683,spanish
+"Shubh, Ikky",Baller,0.702,180.219,0.711,hip-hop,-10.048,0.0932,0.674,0.233,68,Desi Hip-Hop,2022-09-09,0.0163,5,148188,0.00487,desi
+"Pyotr Ilyich Tchaikovsky, André Previn, London Symphony Orchestra","Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",0.164,58.303,0.136,classical,-18.756,0.109,0.071,0.0364,68,Classical Essentials,1976-01-01,0.916,4,166867,0.911,essential
+"Metro Boomin, Future, Chris Brown",Superhero (Heroes & Villains) [with Future & Chris Brown],0.583,116.624,0.709,hip-hop,-5.298,0.195,0.533,0.204,79,Trap,2022-12-02,2.97e-06,5,182667,0.138,trap
+"Kanye West, Rick Ross",Devil In A New Dress,0.76,80.082,0.435,hip-hop,-4.935,0.158,0.206,0.0721,76,Chill Hop,2010-11-22,0.0,8,351947,0.0175,chill
+"Lady Gaga, Bruno Mars",Die With A Smile,0.592,157.969,0.521,pop,-7.777,0.122,0.535,0.0304,100,Global Top 50,2024-08-16,0.0,6,251668,0.308,global
+Katrina & The Waves,Walking On Sunshine,0.87,109.901,0.597,pop,-11.97,0.0678,0.944,0.0371,76,Throwback Party,1985,0.166,10,238733,0.0119,throwback
+Matt Maltese,As the World Caves In,0.449,123.969,0.327,ambient,-5.362,0.22,0.179,0.034,68,Dark Academia,2018-06-08,0.00444,10,218755,0.369,academic
+Mitski,My Love Mine All Mine,0.308,113.95,0.504,ambient,-14.958,0.158,0.121,0.0321,88,Dark Academia,2023-09-15,0.135,9,137773,0.868,academic
+"Post Malone, Ozzy Osbourne, Travis Scott",Take What You Want (feat. Ozzy Osbourne & Travis Scott),0.8,139.918,0.498,hip-hop,-2.665,0.147,0.272,0.0503,73,Melodic Rap,2019-09-06,0.0,1,229573,0.0903,melodic
+"Marshmello, Jonas Brothers",Leave Before You Love Me (with Jonas Brothers),0.738,119.976,0.721,pop,-4.77,0.118,0.637,0.0403,77,Soft Pop Hits,2021-05-21,4.41e-06,7,154983,0.00226,soft
+Hozier,Work Song,0.363,121.412,0.531,folk,-7.672,0.112,0.259,0.0608,77,Indie Folk,2014-09-19,0.0,10,229720,0.749,indie
+The Marías,No One Noticed,0.339,97.989,0.705,pop,-10.612,0.12,0.457,0.0278,84,Today's Top Hits,2024-05-31,0.0814,7,236907,0.552,mainstream
+Kendrick Lamar,N95,0.67,139.956,0.79,hip-hop,-5.527,0.119,0.408,0.105,75,Gangster Rap,2022-05-13,2.32e-06,1,195950,0.377,gangster
+"Rauw Alejandro, Romeo Santos",Khé?,0.627,155.865,0.687,pop,-4.975,0.0893,0.47,0.181,78,Global Top 50,2024-11-15,0.0,7,206066,0.326,global
+USHER,U Remind Me,0.629,93.985,0.657,blues,-4.938,0.254,0.726,0.0782,69,Classic Blues,2001-08-07,0.0,6,266893,0.194,classic
+Artemas,i like the way you kiss me,0.946,151.647,0.599,gaming,-4.263,0.0826,0.747,0.0447,84,Top Gaming Tracks,2024-03-19,0.0106,11,142515,0.000938,modern
+David Bowie,Heroes - 2017 Remaster,0.758,112.113,0.489,rock,-6.491,0.092,0.435,0.0297,72,80s Rock Anthems,1977,0.49,7,371413,0.000678,80s
+Corona,The Rhythm of the Night,0.805,127.808,0.69,pop,-11.522,0.095,0.799,0.0336,70,Throwback Party,1994,0.739,5,264280,0.000232,throwback

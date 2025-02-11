@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Spotify Music Popularity Dashboard</title>
+  <!-- Load D3 v6 -->
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    .chart {
+      border: 1px solid #ccc;
+      margin-top: 10px;
+    }
+    label {
+      margin-right: 10px;
+    }
+    select, button {
+      margin: 5px 0;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Spotify Music Popularity Dashboard</h1>
+
+  <!-- Section for single-variable chart (histogram or bar chart) -->
+  <div class="section">
+    <h2>Single Variable Chart</h2>
+    <label for="varSelect">Select Variable:</label>
+    <select id="varSelect"></select>
+    <br>
+    <label for="toggleOrientation">Chart Orientation:</label>
+    <button id="toggleOrientation">Toggle Orientation</button>
+    <span id="chartTypeDisplay"></span>
+    <br>
+    <svg id="chart" class="chart" width="600" height="400"></svg>
+  </div>
+
+  <!-- Section for scatterplot -->
+  <div class="section">
+    <h2>Scatterplot</h2>
+    <label>Assign the main variable (from above) to:</label>
+    <input type="radio" id="assignX" name="axisAssignment" value="x" checked>
+    <label for="assignX">X-axis</label>
+    <input type="radio" id="assignY" name="axisAssignment" value="y">
+    <label for="assignY">Y-axis</label>
+    <br>
+    <label for="otherVarSelect">Select Other Variable:</label>
+    <select id="otherVarSelect"></select>
+    <br>
+    <svg id="scatterplot" class="chart" width="600" height="400"></svg>
+  </div>
+
+  <script>
+    // Define dimensions and margins for the charts.
+    const chartWidth = 600,
+          chartHeight = 400,
+          margin = { top: 20, right: 30, bottom: 50, left: 50 };
+
+    // Global flag for chart orientation: true = upright (vertical bars), false = sideways (horizontal bars).
+    let upright = true;
+
+    // Load the CSV file.
+    d3.csv("popularity_spotify_sample.csv").then(data => {
+
+      // When D3 loads a CSV file, it automatically creates a "columns" array.
+      const columns = data.columns;
+
+      // Populate the two select menus with all available variables.
+      const varSelect = d3.select("#varSelect");
+      const otherVarSelect = d3.select("#otherVarSelect");
+      columns.forEach(col => {
+        varSelect.append("option").attr("value", col).text(col);
+        otherVarSelect.append("option").attr("value", col).text(col);
+      });
+
+      // Set up event listeners:
+      // • When the main drop-down changes, update both the single-variable chart and the scatterplot.
+      varSelect.on("change", () => {
+        updateSingleChart();
+        updateScatterplot();
+      });
+      // • Toggle orientation on click.
+      d3.select("#toggleOrientation").on("click", () => {
+        upright = !upright;
+        updateSingleChart();
+      });
+      // • For scatterplot, update when the radio button or the other drop-down changes.
+      d3.selectAll("input[name='axisAssignment']").on("change", updateScatterplot);
+      otherVarSelect.on("change", updateScatterplot);
+
+      // Draw initial charts.
+      updateSingleChart();
+      updateScatterplot();
+
+      // Helper function to check whether a column is numeric.
+      function isNumericColumn(colName) {
+        // Check the first 10 rows; if they all convert to numbers, we assume numeric.
+        let sampleSize = Math.min(10, data.length),
+            numericCount = 0;
+        for (let i = 0; i < sampleSize; i++) {
+          if (!isNaN(parseFloat(data[i][colName]))) {
+            numericCount++;
+          }
+        }
+        return numericCount === sampleSize;
+      }
+
+      // Function to update the single-variable chart.
+      function updateSingleChart() {
+        // Clear any previous drawing.
+        const svg = d3.select("#chart");
+        svg.selectAll("*").remove();
+
+        const selectedVar = varSelect.property("value");
+        const numeric = isNumericColumn(selectedVar);
+        d3.select("#chartTypeDisplay").text(numeric ? " (Histogram)" : " (Bar Chart)");
+
+        if (numeric) {
+          // Prepare numeric data.
+          const values = data.map(d => +d[selectedVar]).filter(v => !isNaN(v));
+          // Create bins (here we use 10 bins; adjust thresholds as desired).
+          const binGenerator = d3.bin()
+                                .domain(d3.extent(values))
+                                .thresholds(10);
+          const bins = binGenerator(values);
+
+          if (upright) {
+            // Upright histogram (vertical bars).
+            const xScale = d3.scaleLinear()
+                             .domain([bins[0].x0, bins[bins.length - 1].x1])
+                             .range([margin.left, chartWidth - margin.right]);
+            const yScale = d3.scaleLinear()
+                             .domain([0, d3.max(bins, d => d.length)])
+                             .range([chartHeight - margin.bottom, margin.top]);
+
+            svg.selectAll("rect")
+               .data(bins)
+               .enter()
+               .append("rect")
+               .attr("x", d => xScale(d.x0) + 1)
+               .attr("y", d => yScale(d.length))
+               .attr("width", d => Math.max(0, xScale(d.x1) - xScale(d.x0) - 1))
+               .attr("height", d => chartHeight - margin.bottom - yScale(d.length))
+               .attr("fill", "steelblue");
+
+            // Add axes.
+            svg.append("g")
+               .attr("transform", `translate(0,${chartHeight - margin.bottom})`)
+               .call(d3.axisBottom(xScale));
+            svg.append("g")
+               .attr("transform", `translate(${margin.left},0)`)
+               .call(d3.axisLeft(yScale));
+          } else {
+            // Sideways histogram (horizontal bars).
+            const xScale = d3.scaleLinear()
+                             .domain([0, d3.max(bins, d => d.length)])
+                             .range([margin.left, chartWidth - margin.right]);
+            const yScale = d3.scaleLinear()
+                             .domain([bins[0].x0, bins[bins.length - 1].x1])
+                             .range([chartHeight - margin.bottom, margin.top]);
+
+            svg.selectAll("rect")
+               .data(bins)
+               .enter()
+               .append("rect")
+               .attr("y", d => yScale(d.x1))
+               .attr("x", margin.left)
+               .attr("height", d => Math.abs(yScale(d.x0) - yScale(d.x1)) - 1)
+               .attr("width", d => xScale(d.length) - margin.left)
+               .attr("fill", "steelblue");
+
+            // Add axes.
+            svg.append("g")
+               .attr("transform", `translate(0,${chartHeight - margin.bottom})`)
+               .call(d3.axisBottom(xScale));
+            svg.append("g")
+               .attr("transform", `translate(${margin.left},0)`)
+               .call(d3.axisLeft(yScale));
+          }
+        } else {
+          // For a categorical variable, count the frequency of each category.
+          const freq = d3.rollup(data, v => v.length, d => d[selectedVar]);
+          const categories = Array.from(freq, ([key, value]) => ({ key, value }));
+
+          if (upright) {
+            // Vertical bar chart.
+            const xScale = d3.scaleBand()
+                             .domain(categories.map(d => d.key))
+                             .range([margin.left, chartWidth - margin.right])
+                             .padding(0.1);
+            const yScale = d3.scaleLinear()
+                             .domain([0, d3.max(categories, d => d.value)])
+                             .range([chartHeight - margin.bottom, margin.top]);
+
+            svg.selectAll("rect")
+               .data(categories)
+               .enter()
+               .append("rect")
+               .attr("x", d => xScale(d.key))
+               .attr("y", d => yScale(d.value))
+               .attr("width", xScale.bandwidth())
+               .attr("height", d => chartHeight - margin.bottom - yScale(d.value))
+               .attr("fill", "orange");
+
+            // Add axes (rotate the x-axis labels if they are long).
+            svg.append("g")
+               .attr("transform", `translate(0,${chartHeight - margin.bottom})`)
+               .call(d3.axisBottom(xScale))
+               .selectAll("text")
+               .attr("transform", "rotate(-40)")
+               .style("text-anchor", "end");
+            svg.append("g")
+               .attr("transform", `translate(${margin.left},0)`)
+               .call(d3.axisLeft(yScale));
+          } else {
+            // Horizontal bar chart.
+            const xScale = d3.scaleLinear()
+                             .domain([0, d3.max(categories, d => d.value)])
+                             .range([margin.left, chartWidth - margin.right]);
+            const yScale = d3.scaleBand()
+                             .domain(categories.map(d => d.key))
+                             .range([margin.top, chartHeight - margin.bottom])
+                             .padding(0.1);
+
+            svg.selectAll("rect")
+               .data(categories)
+               .enter()
+               .append("rect")
+               .attr("y", d => yScale(d.key))
+               .attr("x", margin.left)
+               .attr("height", yScale.bandwidth())
+               .attr("width", d => xScale(d.value) - margin.left)
+               .attr("fill", "orange");
+
+            // Add axes.
+            svg.append("g")
+               .attr("transform", `translate(0,${chartHeight - margin.bottom})`)
+               .call(d3.axisBottom(xScale));
+            svg.append("g")
+               .attr("transform", `translate(${margin.left},0)`)
+               .call(d3.axisLeft(yScale));
+          }
+        }
+      }
+
+      // Function to update the scatterplot.
+      function updateScatterplot() {
+        // Clear any previous scatterplot.
+        const svg = d3.select("#scatterplot");
+        svg.selectAll("*").remove();
+
+        // Get which axis the main variable (from varSelect) should go to.
+        const axisAssignment = d3.select("input[name='axisAssignment']:checked").node().value;
+        const mainVar = varSelect.property("value");
+        const otherVar = otherVarSelect.property("value");
+
+        // For the scatterplot we assume both variables are numeric.
+        // Filter out rows where the conversion fails.
+        const filteredData = data.filter(d => {
+          const v1 = +d[mainVar], v2 = +d[otherVar];
+          return !isNaN(v1) && !isNaN(v2);
+        });
+        if(filteredData.length === 0) {
+          svg.append("text")
+             .attr("x", chartWidth/2)
+             .attr("y", chartHeight/2)
+             .attr("text-anchor", "middle")
+             .text("No numeric data for scatterplot.");
+          return;
+        }
+
+        // Decide which variable goes on which axis.
+        let xVar, yVar;
+        if (axisAssignment === "x") {
+          xVar = mainVar;
+          yVar = otherVar;
+        } else {
+          xVar = otherVar;
+          yVar = mainVar;
+        }
+
+        // Build scales.
+        const xValues = filteredData.map(d => +d[xVar]);
+        const yValues = filteredData.map(d => +d[yVar]);
+        const xScale = d3.scaleLinear()
+                         .domain(d3.extent(xValues)).nice()
+                         .range([margin.left, chartWidth - margin.right]);
+        const yScale = d3.scaleLinear()
+                         .domain(d3.extent(yValues)).nice()
+                         .range([chartHeight - margin.bottom, margin.top]);
+
+        // Plot circles for each data point.
+        svg.selectAll("circle")
+           .data(filteredData)
+           .enter()
+           .append("circle")
+           .attr("cx", d => xScale(+d[xVar]))
+           .attr("cy", d => yScale(+d[yVar]))
+           .attr("r", 3)
+           .attr("fill", "green")
+           .attr("opacity", 0.7);
+
+        // Draw axes.
+        svg.append("g")
+           .attr("transform", `translate(0,${chartHeight - margin.bottom})`)
+           .call(d3.axisBottom(xScale));
+        svg.append("g")
+           .attr("transform", `translate(${margin.left},0)`)
+           .call(d3.axisLeft(yScale));
+
+        // Add simple axis labels.
+        svg.append("text")
+           .attr("x", chartWidth / 2)
+           .attr("y", chartHeight - 10)
+           .attr("text-anchor", "middle")
+           .text(xVar);
+        svg.append("text")
+           .attr("transform", "rotate(-90)")
+           .attr("x", -chartHeight/2)
+           .attr("y", 15)
+           .attr("text-anchor", "middle")
+           .text(yVar);
+      }
+
+    }).catch(error => {
+      console.error("Error loading CSV:", error);
+    });
+  </script>
+</body>
+</html>
